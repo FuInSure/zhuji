@@ -1,0 +1,752 @@
+[
+  {
+    "id": "taihe",
+    "title": "太和殿",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/explore/building/236465.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "zhonghe",
+    "title": "中和殿",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/explore/building/236464.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "baohe",
+    "title": "保和殿",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/explore/building/236434.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "dazheng",
+    "title": "大政殿",
+    "publisher": "沈阳故宫博物院",
+    "url": "https://www.sypm.org.cn/zhanlan_3/1160568804620738560.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "dazheng-plan",
+    "title": "宫殿导览 · 东路",
+    "publisher": "沈阳故宫博物院",
+    "url": "https://www.sypm.org.cn/daolan_1/11.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "neixiang",
+    "title": "内乡县衙",
+    "publisher": "内乡县人民政府",
+    "url": "https://www.neixiang.gov.cn/rwnx/jxqy/2015-03-16/7014.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "zhili",
+    "title": "书写半部清史的直隶总督署",
+    "publisher": "保定市人民政府",
+    "url": "https://www.baoding.gov.cn/content-772-53464.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "qiao",
+    "title": "乔家大院",
+    "publisher": "中国天气网 · 山西",
+    "url": "https://shanxi.weather.com.cn/sxsy/qsqzqxfwzt/09/2597034.shtml",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "qiao-alt",
+    "title": "祁县乔家大院：传承百年 焕然一新",
+    "publisher": "人民网 · 山西频道",
+    "url": "https://sx.people.com.cn/n2/2023/0625/c189132-40468703.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "chengzhi",
+    "title": "宏村",
+    "publisher": "中央电视台",
+    "url": "https://www.cntv.cn/program/hxwm/topic/history/C15035/20051208/102066.shtml",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "yinyu",
+    "title": "Yin Yu Tang · Project",
+    "publisher": "Peabody Essex Museum",
+    "url": "https://yinyutang.pem.org/project.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "yinyu-frame",
+    "title": "Yin Yu Tang · Preservation",
+    "publisher": "Peabody Essex Museum",
+    "url": "https://yinyutang.pem.org/preservation.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "zhaozhou",
+    "title": "赵州桥",
+    "publisher": "赵县人民政府",
+    "url": "https://www.zhaoxian.gov.cn/columns/7558c04f-250e-4c72-a91c-425e1b5a8a17/202306/26/9c718990-9c93-471a-9e27-20c31de59149.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "luoyang",
+    "title": "泉州洛阳桥的古代造物智慧",
+    "publisher": "福建省人民政府",
+    "url": "https://www.fujian.gov.cn/zwgk/ztzl/sxzygwzxsgzx/flsxkmh/202306/t20230620_6189792.htm",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "lugou",
+    "title": "卢沟桥经受强降雨考验",
+    "publisher": "人民日报海外版",
+    "url": "https://paper.people.com.cn/hwbwap/html/2023-08/14/content_26010972.htm",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "anping",
+    "title": "公共文化服务文化遗产保护信息全国重点文物保护单位",
+    "publisher": "晋江市人民政府",
+    "url": "https://www.jinjiang.gov.cn/xxgk/zdxxgk/ggwhty/whycbh/202012/t20201211_2476996.htm",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "guangji",
+    "title": "潮州一桥一楼一街：历史和当代相得益彰",
+    "publisher": "潮州市人民政府",
+    "url": "https://www.chaozhou.gov.cn/slhwz/czxw/content/post_3880941.html",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "luding",
+    "title": "旅游资源 · 泸定桥",
+    "publisher": "泸定县人民政府",
+    "url": "https://www.luding.gov.cn/gzldx/c101737/201705/e860e300f30e4f459e5b325c476c8050.shtml",
+    "checked": "2026-10-06",
+    "locator": "建筑介绍相关段落",
+    "verification": "前版正文或检索摘录核对",
+    "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+  },
+  {
+    "id": "luoyang-size",
+    "title": "我国现存最早的跨海梁式大石桥",
+    "publisher": "泉州市人民政府",
+    "url": "https://www.quanzhou.gov.cn/lyb/qzzz/200407/t20040726_3127.htm",
+    "checked": "2026-10-06",
+    "locator": "介绍中的现桥尺寸段",
+    "supports": "1990年代修复后的现桥长731.29米、宽4.5米、高7.3米。",
+    "verification": "网页正文核对"
+  },
+  {
+    "id": "guangji-size",
+    "title": "回访潮州广济桥：守护千年古桥 不负绿水青山",
+    "publisher": "广东省人民政府（南方日报报道）",
+    "url": "https://www.gd.gov.cn/gdywdt/zwzt/scgd/zjhw/content/post_3102191.html",
+    "checked": "2026-10-06",
+    "locator": "2020-10-16报道，桥梁介绍段",
+    "supports": "桥长518米；18艘梭船连接中央浮桥。",
+    "verification": "检索摘录核对；正文当前返回404"
+  },
+  {
+    "id": "neixiang-update",
+    "title": "文化遗产 · 内乡县衙",
+    "publisher": "内乡县人民政府",
+    "url": "https://www.neixiangxian.gov.cn/2017/09-25/1238744.html",
+    "checked": "2026-10-06",
+    "locator": "1、内乡县衙",
+    "supports": "占地2万多平方米，现存280余间；现存主体多为清光绪时期。",
+    "verification": "网页正文核对"
+  },
+  {
+    "id": "luding-size",
+    "title": "泸定桥 · 景点介绍",
+    "publisher": "泸定川能文化旅游发展有限公司（景区官网）",
+    "url": "https://www.scldq.cn/tourism/scenic/19.html",
+    "checked": "2026-10-06",
+    "locator": "景点介绍首段",
+    "supports": "桥长103米、宽3米；13根铁链中9根底链、4根扶手链。",
+    "verification": "网页正文核对"
+  },
+  {
+    "id": "zhili-size",
+    "title": "保定直隶总督署博物馆（国家二级博物馆）",
+    "publisher": "河北省文物局",
+    "url": "https://wenwu.hebei.gov.cn/system/2023/09/27/030253941.shtml",
+    "checked": "2026-10-06",
+    "locator": "设施情况",
+    "supports": "建筑群东西约130米、南北约220米、占地26000多平方米。",
+    "verification": "网页正文核对"
+  },
+  {
+    "id": "qiao-size",
+    "title": "飞入寻常百姓家 中国最具特色民居建筑",
+    "publisher": "中央电视台（中国网络电视台经济频道）",
+    "url": "https://jingji.cntv.cn/2012/06/13/ARTI1339556760810534_4.shtml",
+    "checked": "2026-10-06",
+    "locator": "乔家大院／在中堂段",
+    "supports": "在中堂占地10642平方米、建筑面积4175平方米、6个大院20个小院313间房。",
+    "verification": "检索摘录核对；原网页当前不可直接读取"
+  },
+  {
+    "id": "chengzhi-study",
+    "title": "徽派古村落建筑景观特征分析",
+    "publisher": "谢臻；《艺术研究快报》2014年第3卷，37—43页",
+    "url": "https://pdf.hanspub.org/ARL20140400000_70059661.pdf",
+    "checked": "2026-10-06",
+    "locator": "第39页，3.1民居；DOI:10.12677/arl.2014.34007",
+    "supports": "承志堂为木质结构；原文“总占建筑面积3000余平方米”；9个天井、60间房、136根木柱。",
+    "verification": "PDF全文文本核对；直接下载与网页截图受网站限制"
+  },
+  {
+    "id": "yinyu-doors",
+    "title": "Shi in Architecture · Chapter 4: The Door as a Ritualistic and Cosmological Device",
+    "publisher": "Virginia Tech 学位论文库",
+    "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/27733/Chapter_4.pdf",
+    "checked": "2026-10-06",
+    "locator": "印刷页183，表4.4；本章节PDF第42页",
+    "supports": "主入口、侧入口和7、8号卧室的门洞宽度；数据来自重组施工文件。",
+    "verification": "已下载并目视核对完整表格"
+  },
+  {
+    "id": "yinyu-jgwa",
+    "title": "Yin Yu Tang · Restoration Project",
+    "publisher": "John G. Waite Associates Architects",
+    "url": "https://jgwaarchitects.com/project/yin-yu-tang/",
+    "checked": "2026-10-06",
+    "locator": "项目介绍，五开间两层住宅及重建说明",
+    "supports": "五开间、两层、木框架、砂岩与砖围护墙；重组时增加现代设备和加固。",
+    "verification": "网页正文核对"
+  },
+  {
+    "id": "yinyu-house",
+    "title": "Yin Yu Tang: A Chinese Home",
+    "publisher": "Peabody Essex Museum",
+    "url": "https://www.pem.org/yin-yu-tang-a-chinese-home",
+    "checked": "2026-10-06",
+    "locator": "房屋介绍",
+    "supports": "16间卧室及住宅、天井属性。",
+    "verification": "网页正文核对"
+  },
+  {
+    "id": "new-qianqing",
+    "title": "乾清宫",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/explore/building/236472.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-kunning",
+    "title": "坤宁宫",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/explore/building/236487.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-yangxin",
+    "title": "养心殿",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/explore/building/236442.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-wenhua",
+    "title": "文华殿",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/explore/building/236531.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-wuying",
+    "title": "武英殿",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/explore/building/236500.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-cining",
+    "title": "慈宁宫",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/explore/building/236504.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-huangji",
+    "title": "皇极殿",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/explore/building/236476.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-yangxin-date",
+    "title": "关于养心殿重新开放的公告",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/announce_detail/373148.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1537年始建",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-shenyang",
+    "title": "沈阳故宫宫殿导览",
+    "publisher": "沈阳故宫博物院",
+    "url": "https://www.sypm.org.cn/daolan_1/11.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "天聪年间1627—1636、硬山殿、三层凤凰楼与宫高殿低；取2026-10-07实读正文口径",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-huozhou",
+    "title": "第四批全国重点文物保护单位：霍州州署大堂",
+    "publisher": "国务院名单／湖南省政府公报转刊",
+    "url": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19441848/files/90437dce603f4a58b55efd539a69a95b.pdf",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "霍州州署大堂、元代、霍州市；未提供确切营建年",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-huozhou-form",
+    "title": "霍州州署大堂建筑介绍",
+    "publisher": "百科知识中文网（辅助资料）",
+    "url": "https://www.jendow.com.tw/wiki/霍州州署大堂",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "面阔、进深五间及悬山屋顶；辅助形制来源，非测绘原件",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-pingyao",
+    "title": "号称古衙之最，这个地方牛在哪？",
+    "publisher": "山西省政府相关网站",
+    "url": "https://sxbh.sx.gov.cn/art/2016/11/21/art_1479209_17329426.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "县衙空间、1346年最早现存附属遗构；不能作为全县衙始建年",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-nanyang",
+    "title": "南阳府衙",
+    "publisher": "南阳市文化广电和旅游局",
+    "url": "https://lyj.nanyang.gov.cn/2019/06-05/176235.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "至元八年1271始建及现存明清官署",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-nanyang-size",
+    "title": "南阳府衙",
+    "publisher": "南阳市政府",
+    "url": "https://m.nanyang.gov.cn/2021/01-20/295676.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "南北240m、东西150m、面积36000㎡；此页将1271记为南宋咸淳，纪年表述与文旅页不同",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-huaian",
+    "title": "淮安府署",
+    "publisher": "淮安区人民政府",
+    "url": "https://www.zghaq.gov.cn/col/814_747345/art/ff80808165421cbf016554fc0f69081b.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1370年始建，正堂高10m、面积500余㎡",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-wangjia",
+    "title": "王家大院掠影",
+    "publisher": "中国建设银行（实地游记）",
+    "url": "https://www.ccb.com/chn/2009-11/11/article_2021082106152668280.shtml",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "清康熙至嘉庆陆续营建、城堡式民居；不同游览范围的总数不合并为全宅测绘值",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-huangcheng",
+    "title": "东方古堡，人间晋城：皇城相府",
+    "publisher": "晋城市人民政府",
+    "url": "https://www.jcgov.gov.cn/dtxx/ztzl/2023ncsmp/jcmpmljc/csmpdfgb/202307/t20230706_1819140.shtml",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1632年河山楼动工及城堡式官宦私宅，七层河山楼",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-shijia",
+    "title": "石家大院",
+    "publisher": "天津政务网",
+    "url": "https://www.tj.gov.cn/sq/yztj/mswh/202005/t20200520_2468011.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1875年起大规模营建、约1万㎡占地及宅院组织",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-gaojia",
+    "title": "高家大院",
+    "publisher": "游西安（公开旅游介绍，辅助资料）",
+    "url": "https://xa.ify.cn/content/192.aspx",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "明崇祯主体、三院四进砖木四合院、总居住面积2517㎡；原始测绘未取得",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-gaojia-identity",
+    "title": "高家大院一角",
+    "publisher": "西安市地方志办公室",
+    "url": "https://xadfz.xa.gov.cn/xadq/dqtk/1901530303720120321.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "北院门历史街区中的高家大院身份",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-tulou",
+    "title": "Fujian Tulou：ICOMOS评估",
+    "publisher": "UNESCO／ICOMOS",
+    "url": "https://whc.unesco.org/archive/advisory_body_evaluation/1113.pdf",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "福建土楼夯土外墙、木构内廊、围合居住类型；不是全部土楼各自的精确尺寸",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-chengqi",
+    "title": "承启楼——黄土夯筑的东方智慧",
+    "publisher": "厦门大学建筑与土木工程学院",
+    "url": "https://arch.xmu.edu.cn/info/1161/17744.htm",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "明崇祯年间开建、同心环形居住组织",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-chengqi-date",
+    "title": "承启楼",
+    "publisher": "维基百科（辅助年代来源）",
+    "url": "https://zh.wikipedia.org/wiki/承启楼",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1709建成；与高校明崇祯始建合用，起点不声称确定到某一年",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-huaiyuan",
+    "title": "云水谣：一首流淌着的美丽歌谣",
+    "publisher": "福建省委台港澳工作办公室",
+    "url": "https://www.fjtb.gov.cn/meijing/201311/t20131126_5267800.htm",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "怀远楼1909、1384.7㎡、14.5m、四层136间",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-tulou-study",
+    "title": "福建土楼",
+    "publisher": "中国新闻网作者郑珊云／中国文化研究院",
+    "url": "https://chiculture.org.hk/sites/mainsite/files/2019-04/30025_fujiantulou_pdf_cn.pdf",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "裕昌楼元末明初、18.4m、54m、五层；和贵楼1732、建筑面积3574㎡及五层",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-yuchang-alt",
+    "title": "裕昌楼",
+    "publisher": "维基百科（辅助年代来源）",
+    "url": "https://zh.wikipedia.org/wiki/裕昌楼",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1308年记载，与元末明初说法不一致，保留分歧",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-fuyu",
+    "title": "福裕楼",
+    "publisher": "百度百科（辅助年代来源）",
+    "url": "https://bkso.baidu.com/item/福裕楼/8596684",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1880年开建与府第式形制，需与官方遗产说明合看",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-fuyu-form",
+    "title": "深岩壁垒中的土楼胸怀",
+    "publisher": "中国非物质文化遗产网",
+    "url": "https://www.ihchina.cn/news_1_details/11353.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "洪坑林氏土楼及福裕楼；与1912年建的振成楼区分",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-eryi",
+    "title": "华安土楼：规避等级尊卑，吸取西洋文化",
+    "publisher": "凤凰卫视实地访谈",
+    "url": "https://phtv.ifeng.com/program/whdgy/detail_2010_08/30/2356729_0.shtml",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "当地采访者说明1740开工、1770落成",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-eryi-form",
+    "title": "土楼不土，尽显科学与艺术之美",
+    "publisher": "福建省人民政府",
+    "url": "https://www.fujian.gov.cn/zwgk/ztzl/sxzygwzxsgzx/sdjj/wvjj/202307/t20230718_6208837.htm",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "二宜楼依山选址、防卫、通廊与传声洞",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-huxueyan",
+    "title": "胡雪岩故居",
+    "publisher": "杭州市纪检监察网站",
+    "url": "https://www.hzlz.gov.cn/articles/21006.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1872年始建及商人私宅",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-huxueyan-end",
+    "title": "古井调查资料中的胡雪岩旧居介绍",
+    "publisher": "浙江省政府资料平台",
+    "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3028/site/attach/0/130d29cd6c7e4a758eca7b4cde84df84.pdf",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "旧居1872开工、1875竣工；非把宅第面积推作井或排水尺寸",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-shangshudi",
+    "title": "云游泰宁县：尚书第",
+    "publisher": "上海市虹口区政府",
+    "url": "https://www.shhk.gov.cn/xwzx/002008/002008040/20230625/cfe7b058-fe0c-46e3-bb5e-a93c27e795b1.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "明天启年间李春烨私人府邸；具体开竣工年未定",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-shangshudi-form",
+    "title": "文脉春秋·泰宁",
+    "publisher": "福建省住房和城乡建设厅",
+    "url": "https://zjt.fj.gov.cn/xxgk/gzdt/bmdt/202510/t20251023_7024723.htm",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "三厅九栋的空间组织",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-luzhai",
+    "title": "文化注入，唤醒卢宅老街",
+    "publisher": "上海市杨浦区政府／新华社",
+    "url": "https://yptimes.shyp.gov.cn/html/2019-01/12/content_6_4.htm",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1456年始建、木石砖雕与明清民居群，非现代街区面积",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-zhongshan",
+    "title": "中山桥：历史与现代的交汇",
+    "publisher": "甘肃省文博局",
+    "url": "https://www.gswbj.gov.cn/a/2024/08/20/21699.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1908开工1909通行、中外协作与铁桥结构",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-zhongshan-size",
+    "title": "奋进新时代：丝路古道文脉兴",
+    "publisher": "平凉市政府部门网站",
+    "url": "https://wjw.pingliang.gov.cn/xwdt/mtdt/art/2023/art_daf8f0d56a45429eb58ef81c60ea88fb.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "桥面总宽8.46m、总长255.5m；按此介绍口径，不擅改为常见233m说法",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-baodai",
+    "title": "影像苏州：横作天阙宝带桥",
+    "publisher": "苏州市地方志编纂委员会办公室",
+    "url": "https://dfzb.suzhou.gov.cn/dfzb/szdq/202402/c45a745178bc4794952cd94cb5e3332d.shtml",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "816—819营建与漕运、历次修复，不把唐代等同全部现存构件",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-wuting",
+    "title": "扬州瘦西湖：五亭桥",
+    "publisher": "生态中国网",
+    "url": "https://www.eco.gov.cn/news_info/40287.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "乾隆二十二年1757、五亭、十五券洞及石基木亭组合",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-seventeen",
+    "title": "颐和园内最大的石桥：十七孔桥",
+    "publisher": "北京市公园管理中心",
+    "url": "https://gygl.beijing.gov.cn/whgy/whgy_wsgc/201912/t20191206_885494.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1750年、桥身150m宽8m、十七券洞",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-jadebelt",
+    "title": "玉带桥",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/lemmas/242946.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "清漪园营建背景与高薄石拱、青石和汉白玉、桥高出水十米有余；此页未给精确建桥年",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-jadebelt-date",
+    "title": "玉带桥（北京）",
+    "publisher": "维基百科（辅助年代来源）",
+    "url": "https://zh.wikipedia.org/wiki/玉带桥_(北京)",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1751—1764建造区间；仅作公开资料时间区间，确年待原档核实",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-tangqi",
+    "title": "塘栖古镇里的世界遗产：广济桥",
+    "publisher": "杭州网",
+    "url": "https://hznews.hangzhou.com.cn/chengshi/content/2014-06/30/content_5342158.htm",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1498复建，唐代始建为相传；塘栖七孔桥不是潮州广济桥",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-tangqi-form",
+    "title": "余杭塘栖古镇",
+    "publisher": "杭州网文旅介绍",
+    "url": "https://ywhz.hangzhou.com.cn/hssj/content/content_6221264.htm",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "七孔石拱与大运河文化背景",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-beijian",
+    "title": "泰顺廊桥：古老概念的现代遗存",
+    "publisher": "温州市科学技术协会",
+    "url": "https://wzast.wenzhou.gov.cn/art/2024/12/17/art_1340940_58921007.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1674始建、1803重建、1849重修及木拱体系",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-rulong",
+    "title": "庆元县志：古廊桥",
+    "publisher": "浙江省地方志数字平台",
+    "url": "https://dfz.zj.gov.cn/zlyz/ossfs/h5/ZS-K-331126-2010-001-0101/files/basic-html/page217.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "1625修造及木拱廊屋",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  },
+  {
+    "id": "new-wenhua-date",
+    "title": "青玉交龙纽文华殿宝",
+    "publisher": "故宫博物院",
+    "url": "https://www.dpm.org.cn/collection/seal/233643.html",
+    "checked": "2026-10-07",
+    "locator": "建筑介绍相关段落",
+    "supports": "文华殿1420年始建",
+    "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+  }
+]

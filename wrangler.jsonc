@@ -1,0 +1,27 @@
+{
+	"$schema": "./node_modules/wrangler/config-schema.json",
+	"name": "zhuji-worker",
+	"main": "cloudflare/worker.js",
+	"compatibility_date": "2026-10-07",
+	"workers_dev": true,
+	"assets": {
+		"directory": "./public",
+		"binding": "ASSETS",
+		"run_worker_first": [
+			"/api/*",
+			"/data/architectures.json"
+		]
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "zhuji-db",
+			"database_id": "e1e3592b-005f-4e26-be12-f992e33b2fbe"
+		},
+		{
+			"binding": "zhuji_db",
+			"database_name": "zhuji-db",
+			"database_id": "e1e3592b-005f-4e26-be12-f992e33b2fbe"
+		}
+	]
+}

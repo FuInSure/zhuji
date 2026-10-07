@@ -1,0 +1,23 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {createRequire} from 'node:module';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const require=createRequire(import.meta.url),model=require('../model.js');
+const data=JSON.parse(await fs.readFile(path.join(root,'data/architectures.json'),'utf8'));
+model.validate(data);
+const json=JSON.stringify(data,null,2);
+const code=`/* Generated from data/architectures.json; run node scripts/build-data.mjs after editing it. */\n(function(root){'use strict';const data=${json};root.AtlasData=data;if(typeof module!=='undefined'&&module.exports)module.exports=data;})(typeof window!=='undefined'?window:globalThis);\n`;
+await fs.writeFile(path.join(root,'data.js'),code);
+await fs.writeFile(path.join(root,'data/source-register.json'),JSON.stringify(data.sources,null,2)+'\n');
+const quote=v=>'"'+String(v??'').replace(/"/g,'""')+'"';
+const rows=[['建筑ID','建筑名称','指标类型','指标','值','单位','限定关系','对象范围','原文位置','来源标题','来源链接']];
+for(const r of data.records)for(const key of ['sizes','counts'])for(const item of r[key]||[]){const s=data.sources.find(s=>s.id===item.sourceId);rows.push([r.id,r.name,key==='sizes'?'尺寸':'构件或空间计数',item.label,item.value,item.unit,item.relation||'exact',item.scope||'',item.locator||s.locator,s.title,s.url]);}
+await fs.writeFile(path.join(root,'data/measurements.csv'),'\uFEFF'+rows.map(row=>row.map(quote).join(',')).join('\r\n'));
+const fieldRows=[['建筑名称','对象层级','类型','主承重材料／体系','尺寸条目','构件计数条目','已填写字段','待核实项']];
+for(const r of data.records)fieldRows.push([r.name,r.objectLevel,r.type,r.material||'未载明',r.sizes.length,r.counts.length,model.fieldFlags(r).filter(Boolean).length+'/8',r.dataGaps.map(g=>g.field).join('；')]);
+await fs.writeFile(path.join(root,'data/coverage.csv'),'\uFEFF'+fieldRows.map(row=>row.map(quote).join(',')).join('\r\n'));
+const readings=Object.fromEntries(data.records.filter(r=>r.reading).map(r=>[r.id,r.reading]));
+await fs.writeFile(path.join(root,'expansion-books.js'),'/* Reviewed reading content for the fixed 50-building catalog. */\nObject.assign(window.AtlasBookContent,'+JSON.stringify(readings,null,2)+');\n');
+const metrics=model.aggregate(data.records);
+console.log('Built:',metrics.filled+'/'+metrics.totalFields,'fields;',data.records.length,'buildings;',data.sources.length,'sources');

@@ -1,0 +1,1 @@
+{"name":"zhuji-architectural-atlas","version":"2.0.0","private":true,"scripts":{"start":"node server.mjs","build:data":"node scripts/build-data.mjs","test":"node --test model.test.cjs","verify":"node verify.mjs","build:cloud": "npm run build:data && node cloudflare/build.mjs","deploy": "wrangler deploy"},"devDependencies":{"wrangler":"^4.148.0"}}

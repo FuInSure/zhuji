@@ -1,0 +1,11 @@
+qa/browser-profile/
+qa/*browser-log.txt
+node_modules/
+.wrangler/
+public/
+cloudflare/import.sql
+qa/
+.env
+.env.*
+.dev.vars
+.dev.vars.*

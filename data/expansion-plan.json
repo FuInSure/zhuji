@@ -1,0 +1,250 @@
+{
+  "target": 50,
+  "additions": [
+    {
+      "id": "qianqing",
+      "name": "乾清宫",
+      "type": "皇宫",
+      "photoQuery": "Hall of Heavenly Purity",
+      "status": "已收录"
+    },
+    {
+      "id": "kunning",
+      "name": "坤宁宫",
+      "type": "皇宫",
+      "photoQuery": "Palace of Earthly Tranquility",
+      "status": "已收录"
+    },
+    {
+      "id": "yangxin",
+      "name": "养心殿",
+      "type": "皇宫",
+      "photoQuery": "Hall of Mental Cultivation",
+      "status": "已收录"
+    },
+    {
+      "id": "wenhua",
+      "name": "文华殿",
+      "type": "皇宫",
+      "photoQuery": "Wenhua Hall",
+      "status": "已收录"
+    },
+    {
+      "id": "wuying",
+      "name": "武英殿",
+      "type": "皇宫",
+      "photoQuery": "Wuying Hall",
+      "status": "已收录"
+    },
+    {
+      "id": "cining",
+      "name": "慈宁宫",
+      "type": "皇宫",
+      "photoQuery": "Palace of Compassion and Tranquility",
+      "status": "已收录"
+    },
+    {
+      "id": "huangji",
+      "name": "皇极殿",
+      "type": "皇宫",
+      "photoQuery": "Hall of Imperial Supremacy",
+      "status": "已收录"
+    },
+    {
+      "id": "chongzheng",
+      "name": "崇政殿",
+      "type": "皇宫",
+      "photoQuery": "Chongzheng Hall",
+      "status": "已收录"
+    },
+    {
+      "id": "fenghuang",
+      "name": "凤凰楼",
+      "type": "皇宫",
+      "photoQuery": "Phoenix Tower Shenyang",
+      "status": "已收录"
+    },
+    {
+      "id": "qingning",
+      "name": "清宁宫",
+      "type": "皇宫",
+      "photoQuery": "Qingning Palace",
+      "status": "已收录"
+    },
+    {
+      "id": "huozhou",
+      "name": "霍州署大堂",
+      "type": "官府",
+      "photoQuery": "Huozhou Yamen",
+      "status": "已收录"
+    },
+    {
+      "id": "pingyao",
+      "name": "平遥县衙",
+      "type": "官府",
+      "photoQuery": "Pingyao county government",
+      "status": "已收录"
+    },
+    {
+      "id": "nanyang",
+      "name": "南阳府衙",
+      "type": "官府",
+      "photoQuery": "Nanyang government office",
+      "status": "已收录"
+    },
+    {
+      "id": "huaian",
+      "name": "淮安府署",
+      "type": "官府",
+      "photoQuery": "Huai an government office",
+      "status": "已收录"
+    },
+    {
+      "id": "wangjia",
+      "name": "王家大院",
+      "type": "民居",
+      "photoQuery": "Wang Family Compound",
+      "status": "已收录"
+    },
+    {
+      "id": "huangcheng",
+      "name": "皇城相府",
+      "type": "民居",
+      "photoQuery": "House of the Huangcheng Chancellor",
+      "status": "已收录"
+    },
+    {
+      "id": "shijia",
+      "name": "石家大院",
+      "type": "民居",
+      "photoQuery": "Shi Family Grand Courtyard",
+      "status": "已收录"
+    },
+    {
+      "id": "gaojia",
+      "name": "高家大院（西安）",
+      "type": "民居",
+      "photoQuery": "Gao Family Courtyard Xian",
+      "status": "已收录"
+    },
+    {
+      "id": "chengqi",
+      "name": "承启楼",
+      "type": "民居",
+      "photoQuery": "Chengqi Lou",
+      "status": "已收录"
+    },
+    {
+      "id": "huaiyuan",
+      "name": "怀远楼",
+      "type": "民居",
+      "photoQuery": "Huaiyuan Lou",
+      "status": "已收录"
+    },
+    {
+      "id": "yuchang",
+      "name": "裕昌楼",
+      "type": "民居",
+      "photoQuery": "Yuchang Lou",
+      "status": "已收录"
+    },
+    {
+      "id": "fuyu",
+      "name": "福裕楼",
+      "type": "民居",
+      "photoQuery": "Fuyu Lou",
+      "status": "已收录"
+    },
+    {
+      "id": "eryi",
+      "name": "二宜楼",
+      "type": "民居",
+      "photoQuery": "Eryi Lou",
+      "status": "已收录"
+    },
+    {
+      "id": "hegui",
+      "name": "和贵楼",
+      "type": "民居",
+      "photoQuery": "Hegui Lou",
+      "status": "已收录"
+    },
+    {
+      "id": "huxueyan",
+      "name": "胡雪岩故居",
+      "type": "民居",
+      "photoQuery": "Hu Xueyan residence",
+      "status": "已收录"
+    },
+    {
+      "id": "shangshudi",
+      "name": "尚书第（泰宁）",
+      "type": "民居",
+      "photoQuery": "Shangshu Mansion Taining",
+      "status": "已收录"
+    },
+    {
+      "id": "luzhai",
+      "name": "卢宅（东阳）",
+      "type": "民居",
+      "photoQuery": "Dongyang Luzhai",
+      "status": "已收录"
+    },
+    {
+      "id": "zhongshan",
+      "name": "中山桥（兰州）",
+      "type": "桥梁",
+      "photoQuery": "Zhongshan Bridge Lanzhou",
+      "status": "已收录"
+    },
+    {
+      "id": "baodai",
+      "name": "宝带桥",
+      "type": "桥梁",
+      "photoQuery": "Baodai Bridge",
+      "status": "已收录"
+    },
+    {
+      "id": "wuting",
+      "name": "五亭桥",
+      "type": "桥梁",
+      "photoQuery": "Five Pavilion Bridge Yangzhou",
+      "status": "已收录"
+    },
+    {
+      "id": "seventeen",
+      "name": "十七孔桥",
+      "type": "桥梁",
+      "photoQuery": "Seventeen Arch Bridge",
+      "status": "已收录"
+    },
+    {
+      "id": "jadebelt",
+      "name": "玉带桥（颐和园）",
+      "type": "桥梁",
+      "photoQuery": "Jade Belt Bridge Summer Palace",
+      "status": "已收录"
+    },
+    {
+      "id": "tangqi",
+      "name": "广济桥（塘栖）",
+      "type": "桥梁",
+      "photoQuery": "Tangqi Guangji Bridge",
+      "status": "已收录"
+    },
+    {
+      "id": "beijian",
+      "name": "北涧桥",
+      "type": "桥梁",
+      "photoQuery": "Beijian Bridge",
+      "status": "已收录"
+    },
+    {
+      "id": "rulong",
+      "name": "如龙桥",
+      "type": "桥梁",
+      "photoQuery": "Rulong Bridge",
+      "status": "已收录"
+    }
+  ]
+}

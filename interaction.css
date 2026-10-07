@@ -1,0 +1,55 @@
+/* Hover feedback is shared by mouse and keyboard. Data values remain unchanged. */
+button,a,[role=button]{transition:background-color .18s,border-color .18s,color .18s,box-shadow .18s,filter .18s,transform .18s}
+.panel,.kpi{transition:border-color .22s,box-shadow .22s,background .22s}
+.panel:hover{border-color:#4d9c91;box-shadow:0 0 24px #38f4bd09,inset 0 1px #7fe7ce0c}
+.panel:hover .panel-heading h2 i{box-shadow:0 0 12px #38f4bd80;transform:scaleY(1.15)}
+.panel-heading h2 i{transition:transform .2s,box-shadow .2s}
+.kpi:hover{border-color:#5b9e91;box-shadow:0 0 22px #4ef0bd10;background:linear-gradient(115deg,#19423e,#0c2c34)}
+.kpi-icon{transition:transform .25s,color .25s,filter .25s}
+.kpi:hover .kpi-icon{transform:translateY(-2px) rotate(-6deg);color:#94ffdf;filter:drop-shadow(0 0 6px #38f4bd80)}
+.kpi-decoration{transition:width .35s,height .2s}.kpi:hover .kpi-decoration{width:100%;height:2px}
+.kpi strong.metric-change{animation:metric-change .32s ease both}
+.header-tools button:hover,.header-tools button:focus-visible,.type-filters button:hover,.type-filters button:focus-visible,.filter-chip:hover{background:#205349;border-color:#56c4a2;color:#e4fff1;box-shadow:0 0 13px #38f4bd15;transform:translateY(-1px)}
+.type-row:hover,.type-row:focus-visible,.material-row:hover,.material-row:focus-visible{background:#24574a90;box-shadow:inset 2px 0 #38f4bd;color:#edfff3;transform:translateX(2px)}
+.type-row[aria-pressed=true],.material-row[aria-pressed=true]{background:#24574a60;color:#f6c46a}
+.material-row:hover .material-track i,.material-row:focus-visible .material-track i{filter:brightness(1.35);box-shadow:0 0 10px #38f4bd70}
+.material-track i{transition:width .35s ease,filter .2s,box-shadow .2s;transform-origin:left center;animation:track-reveal .4s ease both}
+.chart-choice,.lane-button,.node{transition:filter .2s}
+.bar-column{transform-box:fill-box;transform-origin:center bottom;animation:bar-reveal .42s ease both;transition:filter .2s}
+.bar-column:hover,.bar-column:focus-visible{filter:drop-shadow(0 0 5px #38f4bd90)}
+.bar-column.is-hovered rect:first-child{stroke:#c4ffdf;stroke-width:1.3}
+.bar-column.is-hovered .svg-small,.bar-column:focus-visible .svg-small{fill:#f6c46a}
+.donut-segment{transform-origin:85px 86px;transition:transform .2s,filter .2s,opacity .2s;stroke:#08242b;stroke-width:.7}
+.donut-segment:hover,.donut-segment.is-hovered,.donut-segment:focus-visible{transform:scale(1.055);filter:drop-shadow(0 0 5px #b0ffe95c);stroke:#d8fff0;stroke-width:1}
+.chart:has(.donut-segment.is-hovered) .donut-segment:not(.is-hovered){opacity:.5}
+.matrix-cell:hover,.matrix-cell:focus-visible,.matrix-cell.is-hovered{opacity:1!important;background:#2c8471!important;border-color:#9effd3!important;color:#f4ffeb!important;box-shadow:0 0 9px #38f4bd30;transform:translateY(-1px)}
+.matrix-cell.row-peer,.matrix-cell.column-peer{border-color:#3e8e7b;background:#174f46}
+.matrix-header.is-hovered,.matrix-row-label.is-hovered{color:#f6c46a}
+.node .node-dot{transition:r .2s,stroke-width .2s,filter .2s}
+.node.is-hovered .node-dot,.node:focus-visible .node-dot{r:7px;stroke-width:1.4px;filter:drop-shadow(0 0 6px currentColor)}
+.node .hover-halo{opacity:0;transform-box:fill-box;transform-origin:center;transition:opacity .2s,transform .2s;transform:scale(.8);pointer-events:none}
+.node.is-hovered .hover-halo,.node:focus-visible .hover-halo{opacity:.85;transform:scale(1);animation:hover-breathe 2.4s ease-in-out infinite}
+.node.is-hovered .node-label,.node:focus-visible .node-label{fill:#fff4ca;stroke:#061a20;stroke-width:4px}
+.lane-button.is-hovered .svg-label,.lane-button:focus-visible .svg-label{fill:#8effd5}
+.timeline-node .timeline-dot{transition:r .2s,filter .2s}.timeline-node:hover .timeline-dot,.timeline-node.is-hovered .timeline-dot{r:4.5px;filter:drop-shadow(0 0 4px #abffdf)}
+.achievement-item:hover,.achievement-item:focus-visible{background:#194239;box-shadow:inset 2px 0 #f6c46a;transform:translateX(2px)}
+.achievement-item:hover strong{color:#f8dd99}.achievement-item:hover .achievement-index{color:#ffe7aa}
+.focus-illustration{transition:filter .25s,transform .25s}
+.focus-illustration:hover,.focus-illustration.is-hovered{filter:drop-shadow(0 0 8px #38f4bd4d);transform:translateY(-2px) scale(1.04)}
+.detail-button:hover,.detail-button:focus-visible{background:#65542f80;border-color:#d4a75a;color:#ffe3a1;box-shadow:0 0 16px #f6c46a18}
+.detail-button span{transition:transform .2s}.detail-button:hover span{transform:translate(3px,-2px)}
+.year-controls button:hover,.year-controls button:focus-visible,#reset-filters:hover,#labels-toggle:hover{color:#fff0bb;text-shadow:0 0 12px #f6c46a60}
+.source-entry a:hover,.dossier-source:hover,.data-downloads a:hover{color:#fff0b5;text-shadow:0 0 10px #f6c46a45}
+#chart-tooltip{position:fixed;z-index:100;max-width:min(300px,calc(100vw - 24px));padding:13px 16px;line-height:1.8;font-size:11px;background:#0c2f37f8;border:1px solid #69bca0;border-radius:3px;box-shadow:0 8px 35px #0007;pointer-events:none;animation:tooltip-enter .12s ease both;overflow-wrap:anywhere}
+#chart-tooltip[hidden]{display:none}#chart-tooltip strong{color:#ffe0a1;font-size:14px;letter-spacing:.5px}#chart-tooltip .tooltip-number{font-family:var(--number);color:#94ffdc;font-size:20px}#chart-tooltip span{color:#a7c9bf;font-size:10px}#chart-tooltip .tooltip-action{display:block;border-top:1px solid #365e5c;padding-top:7px;margin-top:7px;color:#77ebc2}
+#chart-tooltip .tooltip-list{font-size:10px;color:#ccded0;display:block;margin:3px 0 2px}
+@keyframes metric-change{0%{opacity:.65;transform:translateY(4px)}100%{opacity:1;transform:translateY(0)}}
+@keyframes track-reveal{from{transform:scaleX(.2);opacity:.35}to{transform:scaleX(1);opacity:1}}
+@keyframes bar-reveal{from{transform:scaleY(.1);opacity:.3}to{transform:scaleY(1);opacity:1}}
+@keyframes hover-breathe{0%,100%{stroke-opacity:.5}50%{stroke-opacity:1}}
+@keyframes tooltip-enter{from{opacity:0;translate:0 3px}to{opacity:1;translate:0 0}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}.node .hover-halo{transform:none}.material-track i,.bar-column{transform:none}.donut-segment:hover{transform:none}}
+@media(hover:none){.panel:hover,.kpi:hover{box-shadow:none}.focus-illustration:hover{transform:none}}
+#atlas-legend button{display:inline-flex;align-items:center;gap:7px;font-size:10px;color:#a3c2b6;padding:3px 2px;border-radius:2px;white-space:nowrap}#atlas-legend button:hover{color:#fff4c0;background:#204c4255}#atlas-legend button i{width:6px;height:6px;border-radius:50%}
+#atlas-chart:has(.is-related) .node:not(.is-related){opacity:.35;transition:opacity .18s}#atlas-chart .node.is-related .node-dot{stroke:#e3ffdb;stroke-width:1.2px;filter:drop-shadow(0 0 4px #9dffe133)}
+.seal{transition:color .2s,border-color .2s,filter .2s}.seal:hover{color:#ffe9af;border-color:#ffe9af;filter:drop-shadow(0 0 7px #f6c46a55)}

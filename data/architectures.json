@@ -1,0 +1,6927 @@
+{
+  "title": "筑迹",
+  "subtitle": "中国古代建筑时空图谱",
+  "sources": [
+    {
+      "id": "taihe",
+      "title": "太和殿",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/explore/building/236465.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "zhonghe",
+      "title": "中和殿",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/explore/building/236464.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "baohe",
+      "title": "保和殿",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/explore/building/236434.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "dazheng",
+      "title": "大政殿",
+      "publisher": "沈阳故宫博物院",
+      "url": "https://www.sypm.org.cn/zhanlan_3/1160568804620738560.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "dazheng-plan",
+      "title": "宫殿导览 · 东路",
+      "publisher": "沈阳故宫博物院",
+      "url": "https://www.sypm.org.cn/daolan_1/11.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "neixiang",
+      "title": "内乡县衙",
+      "publisher": "内乡县人民政府",
+      "url": "https://www.neixiang.gov.cn/rwnx/jxqy/2015-03-16/7014.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "zhili",
+      "title": "书写半部清史的直隶总督署",
+      "publisher": "保定市人民政府",
+      "url": "https://www.baoding.gov.cn/content-772-53464.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "qiao",
+      "title": "乔家大院",
+      "publisher": "中国天气网 · 山西",
+      "url": "https://shanxi.weather.com.cn/sxsy/qsqzqxfwzt/09/2597034.shtml",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "qiao-alt",
+      "title": "祁县乔家大院：传承百年 焕然一新",
+      "publisher": "人民网 · 山西频道",
+      "url": "https://sx.people.com.cn/n2/2023/0625/c189132-40468703.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "chengzhi",
+      "title": "宏村",
+      "publisher": "中央电视台",
+      "url": "https://www.cntv.cn/program/hxwm/topic/history/C15035/20051208/102066.shtml",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "yinyu",
+      "title": "Yin Yu Tang · Project",
+      "publisher": "Peabody Essex Museum",
+      "url": "https://yinyutang.pem.org/project.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "yinyu-frame",
+      "title": "Yin Yu Tang · Preservation",
+      "publisher": "Peabody Essex Museum",
+      "url": "https://yinyutang.pem.org/preservation.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "zhaozhou",
+      "title": "赵州桥",
+      "publisher": "赵县人民政府",
+      "url": "https://www.zhaoxian.gov.cn/columns/7558c04f-250e-4c72-a91c-425e1b5a8a17/202306/26/9c718990-9c93-471a-9e27-20c31de59149.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "luoyang",
+      "title": "泉州洛阳桥的古代造物智慧",
+      "publisher": "福建省人民政府",
+      "url": "https://www.fujian.gov.cn/zwgk/ztzl/sxzygwzxsgzx/flsxkmh/202306/t20230620_6189792.htm",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "lugou",
+      "title": "卢沟桥经受强降雨考验",
+      "publisher": "人民日报海外版",
+      "url": "https://paper.people.com.cn/hwbwap/html/2023-08/14/content_26010972.htm",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "anping",
+      "title": "公共文化服务文化遗产保护信息全国重点文物保护单位",
+      "publisher": "晋江市人民政府",
+      "url": "https://www.jinjiang.gov.cn/xxgk/zdxxgk/ggwhty/whycbh/202012/t20201211_2476996.htm",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "guangji",
+      "title": "潮州一桥一楼一街：历史和当代相得益彰",
+      "publisher": "潮州市人民政府",
+      "url": "https://www.chaozhou.gov.cn/slhwz/czxw/content/post_3880941.html",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "luding",
+      "title": "旅游资源 · 泸定桥",
+      "publisher": "泸定县人民政府",
+      "url": "https://www.luding.gov.cn/gzldx/c101737/201705/e860e300f30e4f459e5b325c476c8050.shtml",
+      "checked": "2026-10-06",
+      "locator": "建筑介绍相关段落",
+      "verification": "前版正文或检索摘录核对",
+      "supports": "本记录引用的建筑年代、形制或技术描述；具体数值以测量条目引用为准。"
+    },
+    {
+      "id": "luoyang-size",
+      "title": "我国现存最早的跨海梁式大石桥",
+      "publisher": "泉州市人民政府",
+      "url": "https://www.quanzhou.gov.cn/lyb/qzzz/200407/t20040726_3127.htm",
+      "checked": "2026-10-06",
+      "locator": "介绍中的现桥尺寸段",
+      "supports": "1990年代修复后的现桥长731.29米、宽4.5米、高7.3米。",
+      "verification": "网页正文核对"
+    },
+    {
+      "id": "guangji-size",
+      "title": "回访潮州广济桥：守护千年古桥 不负绿水青山",
+      "publisher": "广东省人民政府（南方日报报道）",
+      "url": "https://www.gd.gov.cn/gdywdt/zwzt/scgd/zjhw/content/post_3102191.html",
+      "checked": "2026-10-06",
+      "locator": "2020-10-16报道，桥梁介绍段",
+      "supports": "桥长518米；18艘梭船连接中央浮桥。",
+      "verification": "检索摘录核对；正文当前返回404"
+    },
+    {
+      "id": "neixiang-update",
+      "title": "文化遗产 · 内乡县衙",
+      "publisher": "内乡县人民政府",
+      "url": "https://www.neixiangxian.gov.cn/2017/09-25/1238744.html",
+      "checked": "2026-10-06",
+      "locator": "1、内乡县衙",
+      "supports": "占地2万多平方米，现存280余间；现存主体多为清光绪时期。",
+      "verification": "网页正文核对"
+    },
+    {
+      "id": "luding-size",
+      "title": "泸定桥 · 景点介绍",
+      "publisher": "泸定川能文化旅游发展有限公司（景区官网）",
+      "url": "https://www.scldq.cn/tourism/scenic/19.html",
+      "checked": "2026-10-06",
+      "locator": "景点介绍首段",
+      "supports": "桥长103米、宽3米；13根铁链中9根底链、4根扶手链。",
+      "verification": "网页正文核对"
+    },
+    {
+      "id": "zhili-size",
+      "title": "保定直隶总督署博物馆（国家二级博物馆）",
+      "publisher": "河北省文物局",
+      "url": "https://wenwu.hebei.gov.cn/system/2023/09/27/030253941.shtml",
+      "checked": "2026-10-06",
+      "locator": "设施情况",
+      "supports": "建筑群东西约130米、南北约220米、占地26000多平方米。",
+      "verification": "网页正文核对"
+    },
+    {
+      "id": "qiao-size",
+      "title": "飞入寻常百姓家 中国最具特色民居建筑",
+      "publisher": "中央电视台（中国网络电视台经济频道）",
+      "url": "https://jingji.cntv.cn/2012/06/13/ARTI1339556760810534_4.shtml",
+      "checked": "2026-10-06",
+      "locator": "乔家大院／在中堂段",
+      "supports": "在中堂占地10642平方米、建筑面积4175平方米、6个大院20个小院313间房。",
+      "verification": "检索摘录核对；原网页当前不可直接读取"
+    },
+    {
+      "id": "chengzhi-study",
+      "title": "徽派古村落建筑景观特征分析",
+      "publisher": "谢臻；《艺术研究快报》2014年第3卷，37—43页",
+      "url": "https://pdf.hanspub.org/ARL20140400000_70059661.pdf",
+      "checked": "2026-10-06",
+      "locator": "第39页，3.1民居；DOI:10.12677/arl.2014.34007",
+      "supports": "承志堂为木质结构；原文“总占建筑面积3000余平方米”；9个天井、60间房、136根木柱。",
+      "verification": "PDF全文文本核对；直接下载与网页截图受网站限制"
+    },
+    {
+      "id": "yinyu-doors",
+      "title": "Shi in Architecture · Chapter 4: The Door as a Ritualistic and Cosmological Device",
+      "publisher": "Virginia Tech 学位论文库",
+      "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/27733/Chapter_4.pdf",
+      "checked": "2026-10-06",
+      "locator": "印刷页183，表4.4；本章节PDF第42页",
+      "supports": "主入口、侧入口和7、8号卧室的门洞宽度；数据来自重组施工文件。",
+      "verification": "已下载并目视核对完整表格"
+    },
+    {
+      "id": "yinyu-jgwa",
+      "title": "Yin Yu Tang · Restoration Project",
+      "publisher": "John G. Waite Associates Architects",
+      "url": "https://jgwaarchitects.com/project/yin-yu-tang/",
+      "checked": "2026-10-06",
+      "locator": "项目介绍，五开间两层住宅及重建说明",
+      "supports": "五开间、两层、木框架、砂岩与砖围护墙；重组时增加现代设备和加固。",
+      "verification": "网页正文核对"
+    },
+    {
+      "id": "yinyu-house",
+      "title": "Yin Yu Tang: A Chinese Home",
+      "publisher": "Peabody Essex Museum",
+      "url": "https://www.pem.org/yin-yu-tang-a-chinese-home",
+      "checked": "2026-10-06",
+      "locator": "房屋介绍",
+      "supports": "16间卧室及住宅、天井属性。",
+      "verification": "网页正文核对"
+    },
+    {
+      "id": "new-qianqing",
+      "title": "乾清宫",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/explore/building/236472.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-kunning",
+      "title": "坤宁宫",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/explore/building/236487.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-yangxin",
+      "title": "养心殿",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/explore/building/236442.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-wenhua",
+      "title": "文华殿",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/explore/building/236531.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-wuying",
+      "title": "武英殿",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/explore/building/236500.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-cining",
+      "title": "慈宁宫",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/explore/building/236504.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-huangji",
+      "title": "皇极殿",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/explore/building/236476.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "始建或营建时期、重建、屋顶、开间及历史用途",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-yangxin-date",
+      "title": "关于养心殿重新开放的公告",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/announce_detail/373148.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1537年始建",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-shenyang",
+      "title": "沈阳故宫宫殿导览",
+      "publisher": "沈阳故宫博物院",
+      "url": "https://www.sypm.org.cn/daolan_1/11.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "天聪年间1627—1636、硬山殿、三层凤凰楼与宫高殿低；取2026-10-07实读正文口径",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-huozhou",
+      "title": "第四批全国重点文物保护单位：霍州州署大堂",
+      "publisher": "国务院名单／湖南省政府公报转刊",
+      "url": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19441848/files/90437dce603f4a58b55efd539a69a95b.pdf",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "霍州州署大堂、元代、霍州市；未提供确切营建年",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-huozhou-form",
+      "title": "霍州州署大堂建筑介绍",
+      "publisher": "百科知识中文网（辅助资料）",
+      "url": "https://www.jendow.com.tw/wiki/霍州州署大堂",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "面阔、进深五间及悬山屋顶；辅助形制来源，非测绘原件",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-pingyao",
+      "title": "号称古衙之最，这个地方牛在哪？",
+      "publisher": "山西省政府相关网站",
+      "url": "https://sxbh.sx.gov.cn/art/2016/11/21/art_1479209_17329426.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "县衙空间、1346年最早现存附属遗构；不能作为全县衙始建年",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-nanyang",
+      "title": "南阳府衙",
+      "publisher": "南阳市文化广电和旅游局",
+      "url": "https://lyj.nanyang.gov.cn/2019/06-05/176235.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "至元八年1271始建及现存明清官署",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-nanyang-size",
+      "title": "南阳府衙",
+      "publisher": "南阳市政府",
+      "url": "https://m.nanyang.gov.cn/2021/01-20/295676.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "南北240m、东西150m、面积36000㎡；此页将1271记为南宋咸淳，纪年表述与文旅页不同",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-huaian",
+      "title": "淮安府署",
+      "publisher": "淮安区人民政府",
+      "url": "https://www.zghaq.gov.cn/col/814_747345/art/ff80808165421cbf016554fc0f69081b.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1370年始建，正堂高10m、面积500余㎡",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-wangjia",
+      "title": "王家大院掠影",
+      "publisher": "中国建设银行（实地游记）",
+      "url": "https://www.ccb.com/chn/2009-11/11/article_2021082106152668280.shtml",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "清康熙至嘉庆陆续营建、城堡式民居；不同游览范围的总数不合并为全宅测绘值",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-huangcheng",
+      "title": "东方古堡，人间晋城：皇城相府",
+      "publisher": "晋城市人民政府",
+      "url": "https://www.jcgov.gov.cn/dtxx/ztzl/2023ncsmp/jcmpmljc/csmpdfgb/202307/t20230706_1819140.shtml",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1632年河山楼动工及城堡式官宦私宅，七层河山楼",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-shijia",
+      "title": "石家大院",
+      "publisher": "天津政务网",
+      "url": "https://www.tj.gov.cn/sq/yztj/mswh/202005/t20200520_2468011.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1875年起大规模营建、约1万㎡占地及宅院组织",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-gaojia",
+      "title": "高家大院",
+      "publisher": "游西安（公开旅游介绍，辅助资料）",
+      "url": "https://xa.ify.cn/content/192.aspx",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "明崇祯主体、三院四进砖木四合院、总居住面积2517㎡；原始测绘未取得",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-gaojia-identity",
+      "title": "高家大院一角",
+      "publisher": "西安市地方志办公室",
+      "url": "https://xadfz.xa.gov.cn/xadq/dqtk/1901530303720120321.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "北院门历史街区中的高家大院身份",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-tulou",
+      "title": "Fujian Tulou：ICOMOS评估",
+      "publisher": "UNESCO／ICOMOS",
+      "url": "https://whc.unesco.org/archive/advisory_body_evaluation/1113.pdf",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "福建土楼夯土外墙、木构内廊、围合居住类型；不是全部土楼各自的精确尺寸",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-chengqi",
+      "title": "承启楼——黄土夯筑的东方智慧",
+      "publisher": "厦门大学建筑与土木工程学院",
+      "url": "https://arch.xmu.edu.cn/info/1161/17744.htm",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "明崇祯年间开建、同心环形居住组织",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-chengqi-date",
+      "title": "承启楼",
+      "publisher": "维基百科（辅助年代来源）",
+      "url": "https://zh.wikipedia.org/wiki/承启楼",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1709建成；与高校明崇祯始建合用，起点不声称确定到某一年",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-huaiyuan",
+      "title": "云水谣：一首流淌着的美丽歌谣",
+      "publisher": "福建省委台港澳工作办公室",
+      "url": "https://www.fjtb.gov.cn/meijing/201311/t20131126_5267800.htm",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "怀远楼1909、1384.7㎡、14.5m、四层136间",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-tulou-study",
+      "title": "福建土楼",
+      "publisher": "中国新闻网作者郑珊云／中国文化研究院",
+      "url": "https://chiculture.org.hk/sites/mainsite/files/2019-04/30025_fujiantulou_pdf_cn.pdf",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "裕昌楼元末明初、18.4m、54m、五层；和贵楼1732、建筑面积3574㎡及五层",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-yuchang-alt",
+      "title": "裕昌楼",
+      "publisher": "维基百科（辅助年代来源）",
+      "url": "https://zh.wikipedia.org/wiki/裕昌楼",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1308年记载，与元末明初说法不一致，保留分歧",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-fuyu",
+      "title": "福裕楼",
+      "publisher": "百度百科（辅助年代来源）",
+      "url": "https://bkso.baidu.com/item/福裕楼/8596684",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1880年开建与府第式形制，需与官方遗产说明合看",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-fuyu-form",
+      "title": "深岩壁垒中的土楼胸怀",
+      "publisher": "中国非物质文化遗产网",
+      "url": "https://www.ihchina.cn/news_1_details/11353.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "洪坑林氏土楼及福裕楼；与1912年建的振成楼区分",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-eryi",
+      "title": "华安土楼：规避等级尊卑，吸取西洋文化",
+      "publisher": "凤凰卫视实地访谈",
+      "url": "https://phtv.ifeng.com/program/whdgy/detail_2010_08/30/2356729_0.shtml",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "当地采访者说明1740开工、1770落成",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-eryi-form",
+      "title": "土楼不土，尽显科学与艺术之美",
+      "publisher": "福建省人民政府",
+      "url": "https://www.fujian.gov.cn/zwgk/ztzl/sxzygwzxsgzx/sdjj/wvjj/202307/t20230718_6208837.htm",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "二宜楼依山选址、防卫、通廊与传声洞",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-huxueyan",
+      "title": "胡雪岩故居",
+      "publisher": "杭州市纪检监察网站",
+      "url": "https://www.hzlz.gov.cn/articles/21006.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1872年始建及商人私宅",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-huxueyan-end",
+      "title": "古井调查资料中的胡雪岩旧居介绍",
+      "publisher": "浙江省政府资料平台",
+      "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3028/site/attach/0/130d29cd6c7e4a758eca7b4cde84df84.pdf",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "旧居1872开工、1875竣工；非把宅第面积推作井或排水尺寸",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-shangshudi",
+      "title": "云游泰宁县：尚书第",
+      "publisher": "上海市虹口区政府",
+      "url": "https://www.shhk.gov.cn/xwzx/002008/002008040/20230625/cfe7b058-fe0c-46e3-bb5e-a93c27e795b1.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "明天启年间李春烨私人府邸；具体开竣工年未定",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-shangshudi-form",
+      "title": "文脉春秋·泰宁",
+      "publisher": "福建省住房和城乡建设厅",
+      "url": "https://zjt.fj.gov.cn/xxgk/gzdt/bmdt/202510/t20251023_7024723.htm",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "三厅九栋的空间组织",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-luzhai",
+      "title": "文化注入，唤醒卢宅老街",
+      "publisher": "上海市杨浦区政府／新华社",
+      "url": "https://yptimes.shyp.gov.cn/html/2019-01/12/content_6_4.htm",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1456年始建、木石砖雕与明清民居群，非现代街区面积",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-zhongshan",
+      "title": "中山桥：历史与现代的交汇",
+      "publisher": "甘肃省文博局",
+      "url": "https://www.gswbj.gov.cn/a/2024/08/20/21699.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1908开工1909通行、中外协作与铁桥结构",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-zhongshan-size",
+      "title": "奋进新时代：丝路古道文脉兴",
+      "publisher": "平凉市政府部门网站",
+      "url": "https://wjw.pingliang.gov.cn/xwdt/mtdt/art/2023/art_daf8f0d56a45429eb58ef81c60ea88fb.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "桥面总宽8.46m、总长255.5m；按此介绍口径，不擅改为常见233m说法",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-baodai",
+      "title": "影像苏州：横作天阙宝带桥",
+      "publisher": "苏州市地方志编纂委员会办公室",
+      "url": "https://dfzb.suzhou.gov.cn/dfzb/szdq/202402/c45a745178bc4794952cd94cb5e3332d.shtml",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "816—819营建与漕运、历次修复，不把唐代等同全部现存构件",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-wuting",
+      "title": "扬州瘦西湖：五亭桥",
+      "publisher": "生态中国网",
+      "url": "https://www.eco.gov.cn/news_info/40287.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "乾隆二十二年1757、五亭、十五券洞及石基木亭组合",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-seventeen",
+      "title": "颐和园内最大的石桥：十七孔桥",
+      "publisher": "北京市公园管理中心",
+      "url": "https://gygl.beijing.gov.cn/whgy/whgy_wsgc/201912/t20191206_885494.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1750年、桥身150m宽8m、十七券洞",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-jadebelt",
+      "title": "玉带桥",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/lemmas/242946.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "清漪园营建背景与高薄石拱、青石和汉白玉、桥高出水十米有余；此页未给精确建桥年",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-jadebelt-date",
+      "title": "玉带桥（北京）",
+      "publisher": "维基百科（辅助年代来源）",
+      "url": "https://zh.wikipedia.org/wiki/玉带桥_(北京)",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1751—1764建造区间；仅作公开资料时间区间，确年待原档核实",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-tangqi",
+      "title": "塘栖古镇里的世界遗产：广济桥",
+      "publisher": "杭州网",
+      "url": "https://hznews.hangzhou.com.cn/chengshi/content/2014-06/30/content_5342158.htm",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1498复建，唐代始建为相传；塘栖七孔桥不是潮州广济桥",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-tangqi-form",
+      "title": "余杭塘栖古镇",
+      "publisher": "杭州网文旅介绍",
+      "url": "https://ywhz.hangzhou.com.cn/hssj/content/content_6221264.htm",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "七孔石拱与大运河文化背景",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-beijian",
+      "title": "泰顺廊桥：古老概念的现代遗存",
+      "publisher": "温州市科学技术协会",
+      "url": "https://wzast.wenzhou.gov.cn/art/2024/12/17/art_1340940_58921007.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1674始建、1803重建、1849重修及木拱体系",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-rulong",
+      "title": "庆元县志：古廊桥",
+      "publisher": "浙江省地方志数字平台",
+      "url": "https://dfz.zj.gov.cn/zlyz/ossfs/h5/ZS-K-331126-2010-001-0101/files/basic-html/page217.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "1625修造及木拱廊屋",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    },
+    {
+      "id": "new-wenhua-date",
+      "title": "青玉交龙纽文华殿宝",
+      "publisher": "故宫博物院",
+      "url": "https://www.dpm.org.cn/collection/seal/233643.html",
+      "checked": "2026-10-07",
+      "locator": "建筑介绍相关段落",
+      "supports": "文华殿1420年始建",
+      "verification": "正文或检索摘录核对；数值仅按所引段落记录"
+    }
+  ],
+  "records": [
+    {
+      "id": "zhaozhou",
+      "name": "赵州桥",
+      "type": "桥梁",
+      "province": "河北",
+      "city": "赵县",
+      "region": "华北",
+      "dynasty": "隋",
+      "date": {
+        "start": 595,
+        "end": 605,
+        "label": "595—605年",
+        "kind": "建造区间",
+        "sourceIds": [
+          "zhaozhou"
+        ],
+        "intervalMeaning": "建造起点至终点"
+      },
+      "structure": "石拱桥",
+      "form": "单跨敞肩石拱",
+      "material": "石构",
+      "materialBasis": "文献明确称石拱桥，按主体承重体系归类。",
+      "sizes": [
+        {
+          "label": "主拱净跨",
+          "value": 37.02,
+          "unit": "m",
+          "sourceId": "zhaozhou",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "桥梁总长",
+          "value": 64.4,
+          "unit": "m",
+          "sourceId": "zhaozhou",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "拱矢",
+          "value": 7.23,
+          "unit": "m",
+          "sourceId": "zhaozhou",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "桥面宽度",
+          "value": 9,
+          "unit": "m",
+          "sourceId": "zhaozhou",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "政府资料记载，非新测绘",
+          "locator": ""
+        },
+        {
+          "label": "拱脚处宽度",
+          "value": 9.6,
+          "unit": "m",
+          "sourceId": "zhaozhou",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "",
+          "locator": ""
+        },
+        {
+          "label": "桥堍侧小拱净跨",
+          "value": 3.81,
+          "unit": "m",
+          "sourceId": "zhaozhou",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "",
+          "locator": ""
+        },
+        {
+          "label": "桥中央侧小拱净跨",
+          "value": 2.85,
+          "unit": "m",
+          "sourceId": "zhaozhou",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "",
+          "locator": ""
+        }
+      ],
+      "achievement": "敞肩石拱",
+      "summary": "在主拱两端设置小拱，把桥梁结构与过水空间结合。",
+      "note": "年代是文献给出的建造区间，不等同于全部现存构件的年代。",
+      "sourceIds": [
+        "zhaozhou"
+      ],
+      "facts": [
+        "主拱由28道纵向并列拱券构成。",
+        "主拱两端设小拱，形成敞肩构造。"
+      ],
+      "counts": [
+        {
+          "label": "主拱纵向拱券",
+          "value": 28,
+          "unit": "道",
+          "sourceId": "zhaozhou",
+          "scope": ""
+        }
+      ],
+      "measurementNotes": "尺寸按所引资料口径记载；原文未提供测量年代时，不作为新测绘数据。",
+      "objectLevel": "单体",
+      "rawMaterial": "石构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "zhaozhou"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "zhaozhou"
+          ],
+          "kind": "建造区间"
+        },
+        "structure": {
+          "sourceIds": [
+            "zhaozhou"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "zhaozhou"
+          ],
+          "kind": "文献与构件归类",
+          "note": "文献明确称石拱桥，按主体承重体系归类。"
+        }
+      },
+      "events": [
+        {
+          "label": "595—605年",
+          "start": 595,
+          "end": 605,
+          "event": "建造区间",
+          "sourceIds": [
+            "zhaozhou"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "luoyang",
+      "name": "洛阳桥",
+      "type": "桥梁",
+      "province": "福建",
+      "city": "泉州",
+      "region": "华东",
+      "dynasty": "宋",
+      "date": {
+        "start": 1053,
+        "end": 1059,
+        "label": "1053—1059年",
+        "kind": "建造区间",
+        "sourceIds": [
+          "luoyang"
+        ],
+        "intervalMeaning": "建造起点至终点"
+      },
+      "structure": "石梁桥",
+      "form": "跨海梁式石桥",
+      "material": "石构",
+      "materialBasis": "文献明确称梁式大石桥。",
+      "sizes": [
+        {
+          "label": "现桥长度",
+          "value": 731.29,
+          "unit": "m",
+          "sourceId": "luoyang-size",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "资料记载的修复后现状，不等于宋代初建长度",
+          "locator": ""
+        },
+        {
+          "label": "现桥宽度",
+          "value": 4.5,
+          "unit": "m",
+          "sourceId": "luoyang-size",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "同一现状资料口径",
+          "locator": ""
+        },
+        {
+          "label": "现桥高度",
+          "value": 7.3,
+          "unit": "m",
+          "sourceId": "luoyang-size",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "同一现状资料口径，未进一步说明高程基准",
+          "locator": ""
+        }
+      ],
+      "achievement": "养蛎固基",
+      "summary": "以筏型基础、浮运架梁及养蛎固基应对海湾环境。",
+      "note": "各时代维修改变构件；本页展示宋代始建史及文献所载技术。",
+      "sourceIds": [
+        "luoyang",
+        "luoyang-size"
+      ],
+      "facts": [
+        "建造工程始于1053年，1059年竣工。",
+        "潮汐与海湾地基条件参与造桥技术的选择。"
+      ],
+      "counts": [
+        {
+          "label": "资料所载船形桥墩",
+          "value": 44,
+          "unit": "座",
+          "sourceId": "luoyang-size",
+          "scope": "按2004现桥介绍，不与其他时期墩数混合"
+        }
+      ],
+      "measurementNotes": "731.29、4.5、7.3均为同一政府页面记载的修复后现状；不能用于复原宋代初建尺寸。",
+      "objectLevel": "单体",
+      "rawMaterial": "石构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "luoyang"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "luoyang"
+          ],
+          "kind": "建造区间"
+        },
+        "structure": {
+          "sourceIds": [
+            "luoyang"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "luoyang"
+          ],
+          "kind": "文献与构件归类",
+          "note": "文献明确称梁式大石桥。"
+        }
+      },
+      "events": [
+        {
+          "label": "1053—1059年",
+          "start": 1053,
+          "end": 1059,
+          "event": "建造区间",
+          "sourceIds": [
+            "luoyang"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "anping",
+      "name": "安平桥",
+      "type": "桥梁",
+      "province": "福建",
+      "city": "晋江／南安",
+      "region": "华东",
+      "dynasty": "宋",
+      "date": {
+        "start": 1138,
+        "end": 1152,
+        "label": "1138—1152年",
+        "kind": "建造区间",
+        "sourceIds": [
+          "anping"
+        ],
+        "intervalMeaning": "建造起点至终点"
+      },
+      "structure": "石梁桥",
+      "form": "长距离石梁桥",
+      "material": "石构",
+      "materialBasis": "文献明确称石梁桥。",
+      "sizes": [
+        {
+          "label": "文献记载桥长",
+          "value": 2255,
+          "unit": "m",
+          "sourceId": "anping",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "桥宽下限",
+          "value": 3,
+          "unit": "m",
+          "sourceId": "anping",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "桥宽上限",
+          "value": 3.8,
+          "unit": "m",
+          "sourceId": "anping",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        }
+      ],
+      "achievement": "长距离架梁",
+      "summary": "依靠连续的石墩与石梁，连接海湾两岸。",
+      "note": "2255米为所引文保资料口径，不与其他资料的现存长度混用。",
+      "sourceIds": [
+        "anping"
+      ],
+      "facts": [
+        "1138年开始建造，1152年完成。",
+        "资料记载宽度为3至3.8米。"
+      ],
+      "counts": [],
+      "measurementNotes": "尺寸按所引资料口径记载；原文未提供测量年代时，不作为新测绘数据。",
+      "objectLevel": "单体",
+      "rawMaterial": "石构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "anping"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "anping"
+          ],
+          "kind": "建造区间"
+        },
+        "structure": {
+          "sourceIds": [
+            "anping"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "anping"
+          ],
+          "kind": "文献与构件归类",
+          "note": "文献明确称石梁桥。"
+        }
+      },
+      "events": [
+        {
+          "label": "1138—1152年",
+          "start": 1138,
+          "end": 1152,
+          "event": "建造区间",
+          "sourceIds": [
+            "anping"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "guangji",
+      "name": "广济桥",
+      "type": "桥梁",
+      "province": "广东",
+      "city": "潮州",
+      "region": "华南",
+      "dynasty": "宋",
+      "date": {
+        "start": 1171,
+        "end": 1171,
+        "label": "1171年",
+        "kind": "始建",
+        "sourceIds": [
+          "guangji"
+        ],
+        "intervalMeaning": "单年"
+      },
+      "structure": "梁浮组合",
+      "form": "梁桥与浮桥组合",
+      "material": "石木复合",
+      "materialBasis": "依据石桥墩和浮舟组合归类；属于资料整理判断。",
+      "sizes": [
+        {
+          "label": "全桥长度",
+          "value": 518,
+          "unit": "m",
+          "sourceId": "guangji-size",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "2020年采访介绍口径，不倒推1171年浮桥长度",
+          "locator": ""
+        }
+      ],
+      "achievement": "可启闭浮桥",
+      "summary": "两岸石桥与中央浮舟结合，为通行和通航安排不同状态。",
+      "note": "1171年为起点，1530年形成资料所述格局；不是一次建成。",
+      "sourceIds": [
+        "guangji",
+        "guangji-size"
+      ],
+      "facts": [
+        "初始造桥于1171年展开。",
+        "中央浮舟可开合，两侧设石桥墩。"
+      ],
+      "counts": [
+        {
+          "label": "中央浮舟",
+          "value": 18,
+          "unit": "艘",
+          "sourceId": "guangji-size",
+          "scope": "现桥介绍口径"
+        }
+      ],
+      "measurementNotes": "518米与18艘浮舟是现代介绍的现桥口径；建造与重修经历不被压成1171年一次建成。",
+      "objectLevel": "单体",
+      "rawMaterial": "石木复合",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "guangji"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "guangji"
+          ],
+          "kind": "始建"
+        },
+        "structure": {
+          "sourceIds": [
+            "guangji"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "guangji"
+          ],
+          "kind": "文献与构件归类",
+          "note": "依据石桥墩和浮舟组合归类；属于资料整理判断。"
+        }
+      },
+      "events": [
+        {
+          "label": "1171年",
+          "start": 1171,
+          "end": 1171,
+          "event": "始建",
+          "sourceIds": [
+            "guangji"
+          ]
+        },
+        {
+          "label": "1530年",
+          "start": 1530,
+          "end": 1530,
+          "event": "形成所述梁浮组合格局",
+          "sourceIds": [
+            "guangji"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "lugou",
+      "name": "卢沟桥",
+      "type": "桥梁",
+      "province": "北京",
+      "city": "丰台",
+      "region": "华北",
+      "dynasty": "金",
+      "date": {
+        "start": 1189,
+        "end": 1192,
+        "label": "1189—1192年",
+        "kind": "建造区间",
+        "sourceIds": [
+          "lugou"
+        ],
+        "intervalMeaning": "建造起点至终点"
+      },
+      "structure": "石拱桥",
+      "form": "十一孔联拱石桥",
+      "material": "石构",
+      "materialBasis": "文献记载石桥桥体与多孔桥拱。",
+      "sizes": [
+        {
+          "label": "桥梁总长",
+          "value": 266.5,
+          "unit": "m",
+          "sourceId": "lugou",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "桥身总宽",
+          "value": 9.3,
+          "unit": "m",
+          "sourceId": "lugou",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "桥面宽度",
+          "value": 7.5,
+          "unit": "m",
+          "sourceId": "lugou",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        }
+      ],
+      "achievement": "多孔联拱",
+      "summary": "以连续桥墩与桥拱跨越河道，形成多孔承重体系。",
+      "note": "桥身总宽与桥面宽是不同指标；数据保持原资料口径。",
+      "sourceIds": [
+        "lugou"
+      ],
+      "facts": [
+        "1189年始建，1192年建成。",
+        "现有10个桥墩与11个桥孔。"
+      ],
+      "counts": [
+        {
+          "label": "桥墩",
+          "value": 10,
+          "unit": "个",
+          "sourceId": "lugou",
+          "scope": ""
+        },
+        {
+          "label": "桥孔",
+          "value": 11,
+          "unit": "孔",
+          "sourceId": "lugou",
+          "scope": ""
+        }
+      ],
+      "measurementNotes": "尺寸按所引资料口径记载；原文未提供测量年代时，不作为新测绘数据。",
+      "objectLevel": "单体",
+      "rawMaterial": "石构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "lugou"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "lugou"
+          ],
+          "kind": "建造区间"
+        },
+        "structure": {
+          "sourceIds": [
+            "lugou"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "lugou"
+          ],
+          "kind": "文献与构件归类",
+          "note": "文献记载石桥桥体与多孔桥拱。"
+        }
+      },
+      "events": [
+        {
+          "label": "1189—1192年",
+          "start": 1189,
+          "end": 1192,
+          "event": "建造区间",
+          "sourceIds": [
+            "lugou"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "neixiang",
+      "name": "内乡县衙",
+      "type": "官府",
+      "province": "河南",
+      "city": "内乡",
+      "region": "华中",
+      "dynasty": "元",
+      "date": {
+        "start": 1304,
+        "end": 1304,
+        "label": "1304年",
+        "kind": "始建",
+        "sourceIds": [
+          "neixiang"
+        ],
+        "intervalMeaning": "单年"
+      },
+      "structure": "院落式",
+      "form": "轴线对称多进院落",
+      "material": "木构",
+      "materialBasis": "依据资料中的榫木斗拱、廊柱等承重构件归类；为整理判断。",
+      "sizes": [
+        {
+          "label": "占地面积",
+          "value": 20000,
+          "unit": "m²",
+          "sourceId": "neixiang-update",
+          "qualifier": "大于",
+          "relation": "gt",
+          "scope": "县政府“2万多平方米”的下限，不是精确点值",
+          "locator": ""
+        }
+      ],
+      "achievement": "官署空间规制",
+      "summary": "以中轴和多进院落组织办公、居住及辅助功能。",
+      "note": "1304年是县署始建时间，现存主体多为清光绪时期营建。",
+      "sourceIds": [
+        "neixiang",
+        "neixiang-update"
+      ],
+      "facts": [
+        "主体建筑沿中轴线排列。",
+        "辅助建筑分置两侧，形成主从关系。"
+      ],
+      "counts": [],
+      "measurementNotes": "占地只采用“2万多”的下限记录。其他报道的8500平方米、24000平方米存在范围或时代差异，暂不混用。",
+      "objectLevel": "建筑群",
+      "rawMaterial": "木构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "neixiang"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "neixiang"
+          ],
+          "kind": "始建"
+        },
+        "structure": {
+          "sourceIds": [
+            "neixiang"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "neixiang"
+          ],
+          "kind": "文献与构件归类",
+          "note": "依据资料中的榫木斗拱、廊柱等承重构件归类；为整理判断。"
+        }
+      },
+      "events": [
+        {
+          "label": "1304年",
+          "start": 1304,
+          "end": 1304,
+          "event": "始建",
+          "sourceIds": [
+            "neixiang"
+          ]
+        },
+        {
+          "label": "清光绪年间",
+          "start": null,
+          "end": null,
+          "event": "现存主体营建，未统一精确年",
+          "sourceIds": [
+            "neixiang-update"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "taihe",
+      "name": "太和殿",
+      "type": "皇宫",
+      "province": "北京",
+      "city": "故宫",
+      "region": "华北",
+      "dynasty": "明",
+      "date": {
+        "start": 1420,
+        "end": 1420,
+        "label": "1420年",
+        "kind": "始建",
+        "sourceIds": [
+          "taihe"
+        ],
+        "intervalMeaning": "单年"
+      },
+      "structure": "殿堂木架",
+      "form": "重檐庑殿顶",
+      "material": "木构",
+      "materialBasis": "根据资料中的梁柱和斗栱承重构件归类；不表示所有构件均为木材。",
+      "sizes": [
+        {
+          "label": "建筑面积",
+          "value": 2377,
+          "unit": "m²",
+          "sourceId": "taihe",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "殿宇高度",
+          "value": 26.92,
+          "unit": "m",
+          "sourceId": "taihe",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "含台基总高",
+          "value": 35.05,
+          "unit": "m",
+          "sourceId": "taihe",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        }
+      ],
+      "achievement": "大木作与斗栱",
+      "summary": "大木架、斗栱与重檐屋顶共同组织庄重的殿堂空间。",
+      "note": "现见形制为1695年重建；图谱按1420年始建时间定位。",
+      "sourceIds": [
+        "taihe"
+      ],
+      "facts": [
+        "面阔11间，进深5间。",
+        "殿宇高度与包含台基的总高分别记载。"
+      ],
+      "counts": [
+        {
+          "label": "面阔开间",
+          "value": 11,
+          "unit": "间",
+          "sourceId": "taihe",
+          "scope": ""
+        },
+        {
+          "label": "进深开间",
+          "value": 5,
+          "unit": "间",
+          "sourceId": "taihe",
+          "scope": ""
+        }
+      ],
+      "measurementNotes": "尺寸按所引资料口径记载；原文未提供测量年代时，不作为新测绘数据。",
+      "objectLevel": "单体",
+      "rawMaterial": "木构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "taihe"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "taihe"
+          ],
+          "kind": "始建"
+        },
+        "structure": {
+          "sourceIds": [
+            "taihe"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "taihe"
+          ],
+          "kind": "文献与构件归类",
+          "note": "根据资料中的梁柱和斗栱承重构件归类；不表示所有构件均为木材。"
+        }
+      },
+      "events": [
+        {
+          "label": "1420年",
+          "start": 1420,
+          "end": 1420,
+          "event": "始建",
+          "sourceIds": [
+            "taihe"
+          ]
+        },
+        {
+          "label": "1695年",
+          "start": 1695,
+          "end": 1695,
+          "event": "现存形制重建",
+          "sourceIds": [
+            "taihe"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "zhonghe",
+      "name": "中和殿",
+      "type": "皇宫",
+      "province": "北京",
+      "city": "故宫",
+      "region": "华北",
+      "dynasty": "明",
+      "date": {
+        "start": 1420,
+        "end": 1420,
+        "label": "1420年",
+        "kind": "始建",
+        "sourceIds": [
+          "zhonghe"
+        ],
+        "intervalMeaning": "单年"
+      },
+      "structure": "殿堂木架",
+      "form": "单檐四角攒尖顶",
+      "material": "木构",
+      "materialBasis": "根据资料所述殿堂梁架构件整理归类。",
+      "sizes": [
+        {
+          "label": "建筑面积",
+          "value": 580,
+          "unit": "m²",
+          "sourceId": "zhonghe",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        }
+      ],
+      "achievement": "方形殿堂组织",
+      "summary": "方形平面与四面出廊形成独立的殿堂空间。",
+      "note": "始建年代与多次灾毁、重修后的现存形制分开说明。",
+      "sourceIds": [
+        "zhonghe"
+      ],
+      "facts": [
+        "面阔和进深各为3间。",
+        "屋顶中央设置铜胎鎏金宝顶。"
+      ],
+      "counts": [
+        {
+          "label": "面阔开间",
+          "value": 3,
+          "unit": "间",
+          "sourceId": "zhonghe",
+          "scope": ""
+        },
+        {
+          "label": "进深开间",
+          "value": 3,
+          "unit": "间",
+          "sourceId": "zhonghe",
+          "scope": ""
+        }
+      ],
+      "measurementNotes": "尺寸按所引资料口径记载；原文未提供测量年代时，不作为新测绘数据。",
+      "objectLevel": "单体",
+      "rawMaterial": "木构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "zhonghe"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "zhonghe"
+          ],
+          "kind": "始建"
+        },
+        "structure": {
+          "sourceIds": [
+            "zhonghe"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "zhonghe"
+          ],
+          "kind": "文献与构件归类",
+          "note": "根据资料所述殿堂梁架构件整理归类。"
+        }
+      },
+      "events": [
+        {
+          "label": "1420年",
+          "start": 1420,
+          "end": 1420,
+          "event": "始建",
+          "sourceIds": [
+            "zhonghe"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "baohe",
+      "name": "保和殿",
+      "type": "皇宫",
+      "province": "北京",
+      "city": "故宫",
+      "region": "华北",
+      "dynasty": "明",
+      "date": {
+        "start": 1420,
+        "end": 1420,
+        "label": "1420年",
+        "kind": "始建",
+        "sourceIds": [
+          "baohe"
+        ],
+        "intervalMeaning": "单年"
+      },
+      "structure": "殿堂木架",
+      "form": "重檐歇山顶",
+      "material": "木构",
+      "materialBasis": "文献明确提及天花梁、金柱与减柱造，整理为木构体系。",
+      "sizes": [
+        {
+          "label": "建筑面积",
+          "value": 1240,
+          "unit": "m²",
+          "sourceId": "baohe",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "殿宇高度",
+          "value": 29.5,
+          "unit": "m",
+          "sourceId": "baohe",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        }
+      ],
+      "achievement": "减柱造",
+      "summary": "减少部分前檐金柱，为殿内提供更开阔的空间。",
+      "note": "始建于1420年，嘉靖时灾后重修；图谱不把始建时间当作现存构件年龄。",
+      "sourceIds": [
+        "baohe"
+      ],
+      "facts": [
+        "面阔9间，进深5间。",
+        "前檐金柱减去六根。"
+      ],
+      "counts": [
+        {
+          "label": "面阔开间",
+          "value": 9,
+          "unit": "间",
+          "sourceId": "baohe",
+          "scope": ""
+        },
+        {
+          "label": "进深开间",
+          "value": 5,
+          "unit": "间",
+          "sourceId": "baohe",
+          "scope": ""
+        },
+        {
+          "label": "减去的前檐金柱",
+          "value": 6,
+          "unit": "根",
+          "sourceId": "baohe",
+          "scope": ""
+        }
+      ],
+      "measurementNotes": "尺寸按所引资料口径记载；原文未提供测量年代时，不作为新测绘数据。",
+      "objectLevel": "单体",
+      "rawMaterial": "木构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "baohe"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "baohe"
+          ],
+          "kind": "始建"
+        },
+        "structure": {
+          "sourceIds": [
+            "baohe"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "baohe"
+          ],
+          "kind": "文献与构件归类",
+          "note": "文献明确提及天花梁、金柱与减柱造，整理为木构体系。"
+        }
+      },
+      "events": [
+        {
+          "label": "1420年",
+          "start": 1420,
+          "end": 1420,
+          "event": "始建",
+          "sourceIds": [
+            "baohe"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "dazheng",
+      "name": "大政殿",
+      "type": "皇宫",
+      "province": "辽宁",
+      "city": "沈阳",
+      "region": "东北",
+      "dynasty": "后金",
+      "date": {
+        "start": 1625,
+        "end": 1626,
+        "label": "1625—1626年",
+        "kind": "建造区间",
+        "sourceIds": [
+          "dazheng",
+          "dazheng-plan"
+        ],
+        "intervalMeaning": "建造起点至终点"
+      },
+      "structure": "殿堂木架",
+      "form": "八角重檐攒尖顶",
+      "material": "木构",
+      "materialBasis": "博物院资料明确记载大木架结构。",
+      "sizes": [
+        {
+          "label": "殿内面积",
+          "value": 401.12,
+          "unit": "m²",
+          "sourceId": "dazheng-plan",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "全高",
+          "value": 17.5,
+          "unit": "m",
+          "sourceId": "dazheng-plan",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "原资料记载，非本项目新测绘",
+          "locator": ""
+        },
+        {
+          "label": "面阔",
+          "value": 21,
+          "unit": "m",
+          "sourceId": "dazheng-plan",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "",
+          "locator": ""
+        },
+        {
+          "label": "进深",
+          "value": 21,
+          "unit": "m",
+          "sourceId": "dazheng-plan",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "",
+          "locator": ""
+        },
+        {
+          "label": "台基高度",
+          "value": 2.2,
+          "unit": "m",
+          "sourceId": "dazheng-plan",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "",
+          "locator": ""
+        }
+      ],
+      "achievement": "八角宫殿形制",
+      "summary": "八角平面与重檐屋顶构成具有鲜明特色的宫殿。",
+      "note": "同一博物院分别记载1625年始建与1626年建成，保留两者。",
+      "sourceIds": [
+        "dazheng",
+        "dazheng-plan"
+      ],
+      "facts": [
+        "资料记载进深、面阔均为21米。",
+        "平面形制与帐幄意象相联系。"
+      ],
+      "counts": [],
+      "measurementNotes": "尺寸按所引资料口径记载；原文未提供测量年代时，不作为新测绘数据。",
+      "objectLevel": "单体",
+      "rawMaterial": "木构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "dazheng"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "dazheng",
+            "dazheng-plan"
+          ],
+          "kind": "建造区间"
+        },
+        "structure": {
+          "sourceIds": [
+            "dazheng"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "dazheng"
+          ],
+          "kind": "文献与构件归类",
+          "note": "博物院资料明确记载大木架结构。"
+        }
+      },
+      "events": [
+        {
+          "label": "1625—1626年",
+          "start": 1625,
+          "end": 1626,
+          "event": "建造区间",
+          "sourceIds": [
+            "dazheng",
+            "dazheng-plan"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "luding",
+      "name": "泸定桥",
+      "type": "桥梁",
+      "province": "四川",
+      "city": "泸定",
+      "region": "西南",
+      "dynasty": "清",
+      "date": {
+        "start": 1705,
+        "end": 1706,
+        "label": "1705—1706年",
+        "kind": "建造区间",
+        "sourceIds": [
+          "luding"
+        ],
+        "intervalMeaning": "建造起点至终点"
+      },
+      "structure": "铁索桥",
+      "form": "铁索悬桥",
+      "material": "铁木复合",
+      "materialBasis": "依据铁索承重与木铺桥面的组合整理归类。",
+      "sizes": [
+        {
+          "label": "桥长",
+          "value": 103,
+          "unit": "m",
+          "sourceId": "luding-size",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "景区公开介绍，非本项目测绘",
+          "locator": ""
+        },
+        {
+          "label": "桥宽",
+          "value": 3,
+          "unit": "m",
+          "sourceId": "luding-size",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "景区公开介绍",
+          "locator": ""
+        }
+      ],
+      "achievement": "铁索跨越",
+      "summary": "以铁索体系跨越大渡河，回应峡谷交通的需求。",
+      "note": "本项目只讨论清代建桥与结构，不将近现代事件计入建造年代。",
+      "sourceIds": [
+        "luding",
+        "luding-size"
+      ],
+      "facts": [
+        "1705年修建，次年竣工。",
+        "铁索是其主要承重构件。"
+      ],
+      "counts": [
+        {
+          "label": "铁链总数",
+          "value": 13,
+          "unit": "根",
+          "sourceId": "luding-size",
+          "scope": ""
+        },
+        {
+          "label": "底链",
+          "value": 9,
+          "unit": "根",
+          "sourceId": "luding-size",
+          "scope": ""
+        },
+        {
+          "label": "扶手链",
+          "value": 4,
+          "unit": "根",
+          "sourceId": "luding-size",
+          "scope": ""
+        }
+      ],
+      "measurementNotes": "尺寸按所引资料口径记载；原文未提供测量年代时，不作为新测绘数据。",
+      "objectLevel": "单体",
+      "rawMaterial": "铁木复合",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "luding"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "luding"
+          ],
+          "kind": "建造区间"
+        },
+        "structure": {
+          "sourceIds": [
+            "luding"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "luding"
+          ],
+          "kind": "文献与构件归类",
+          "note": "依据铁索承重与木铺桥面的组合整理归类。"
+        }
+      },
+      "events": [
+        {
+          "label": "1705—1706年",
+          "start": 1705,
+          "end": 1706,
+          "event": "建造区间",
+          "sourceIds": [
+            "luding"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "zhili",
+      "name": "直隶总督署",
+      "type": "官府",
+      "province": "河北",
+      "city": "保定",
+      "region": "华北",
+      "dynasty": "清",
+      "date": {
+        "start": 1724,
+        "end": 1730,
+        "label": "1724—1730年",
+        "kind": "建造区间",
+        "sourceIds": [
+          "zhili"
+        ],
+        "intervalMeaning": "建造起点至终点"
+      },
+      "structure": "院落式",
+      "form": "三路官署院落",
+      "material": null,
+      "materialBasis": "已核对省文物局和博物馆公开介绍，能确认院落规制与围护外观，未找到足以判定整座建筑群主承重体系的修缮或测绘文件，仍保留未载明。",
+      "sizes": [
+        {
+          "label": "建筑群东西尺度",
+          "value": 130,
+          "unit": "m",
+          "sourceId": "zhili-size",
+          "qualifier": "约",
+          "relation": "approx",
+          "scope": "现存建筑群，不是单体建筑",
+          "locator": ""
+        },
+        {
+          "label": "建筑群南北尺度",
+          "value": 220,
+          "unit": "m",
+          "sourceId": "zhili-size",
+          "qualifier": "约",
+          "relation": "approx",
+          "scope": "现存建筑群，不是单体建筑",
+          "locator": ""
+        },
+        {
+          "label": "占地面积",
+          "value": 26000,
+          "unit": "m²",
+          "sourceId": "zhili-size",
+          "qualifier": "大于",
+          "relation": "gt",
+          "scope": "原文“26000多平方米”，不以130×220替代占地面积",
+          "locator": ""
+        }
+      ],
+      "achievement": "中轴与三路布局",
+      "summary": "中、东、西三路组织不同功能，体现官署空间规制。",
+      "note": "按保定市政府资料记载的开建—完工区间，未采用其他报道的单年口径。",
+      "sourceIds": [
+        "zhili",
+        "zhili-size"
+      ],
+      "facts": [
+        "布瓦顶的小式硬山形制。",
+        "廊庑、耳房与厢房连接中路院落。"
+      ],
+      "counts": [],
+      "measurementNotes": "东西、南北尺度为约数，占地为下限。长宽乘积只是外包矩形面积，不能当作实际占地。主承重材料仍待核实。",
+      "objectLevel": "建筑群",
+      "rawMaterial": "公开引文未明确",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "zhili"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "zhili"
+          ],
+          "kind": "建造区间"
+        },
+        "structure": {
+          "sourceIds": [
+            "zhili"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [],
+          "kind": "待核实",
+          "note": "已核对省文物局和博物馆公开介绍，能确认院落规制与围护外观，未找到足以判定整座建筑群主承重体系的修缮或测绘文件，仍保留未载明。"
+        }
+      },
+      "events": [
+        {
+          "label": "1724—1730年",
+          "start": 1724,
+          "end": 1730,
+          "event": "建造区间",
+          "sourceIds": [
+            "zhili"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "主承重材料",
+          "requiredEvidence": "博物馆公开修缮说明或建筑群结构测绘报告",
+          "reason": "家具、木栅栏、牌坊或屋顶照片不能代替整座建筑群的承重依据。"
+        }
+      ]
+    },
+    {
+      "id": "qiao",
+      "name": "乔家大院",
+      "type": "民居",
+      "province": "山西",
+      "city": "祁县",
+      "region": "华北",
+      "dynasty": "清",
+      "date": {
+        "start": 1755,
+        "end": 1756,
+        "label": "1755／1756年",
+        "kind": "来源分歧",
+        "sourceIds": [
+          "qiao",
+          "qiao-alt"
+        ],
+        "intervalMeaning": "来源候选年，不代表连续施工",
+        "candidates": [
+          1755,
+          1756
+        ]
+      },
+      "structure": "院落式",
+      "form": "北方复合院落",
+      "material": "砖木复合",
+      "materialBasis": "中国天气网明确称主楼为砖木结构；图谱单列“砖木复合”，不把砖墙与木作的组合简化成纯木构。",
+      "sizes": [
+        {
+          "label": "在中堂占地面积",
+          "value": 10642,
+          "unit": "m²",
+          "sourceId": "qiao-size",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "在中堂，不是四堂一园；包含后续增修形成的现状",
+          "locator": ""
+        },
+        {
+          "label": "在中堂建筑面积",
+          "value": 4175,
+          "unit": "m²",
+          "sourceId": "qiao-size",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "在中堂报道口径，不当作清初原始规模",
+          "locator": ""
+        }
+      ],
+      "achievement": "复合院落组织",
+      "summary": "多组院落与甬道组织居住空间，体现北方民居的层次。",
+      "note": "资料分别给出1755和1756年；图中短横线表示来源分歧，不代表连续施工。后期有扩建，本页限定古代阶段。",
+      "sourceIds": [
+        "qiao",
+        "qiao-alt",
+        "qiao-size"
+      ],
+      "facts": [
+        "以甬道组织南北两排院落。",
+        "布局在后续扩建中逐渐发展。"
+      ],
+      "counts": [
+        {
+          "label": "在中堂大院",
+          "value": 6,
+          "unit": "个",
+          "sourceId": "qiao-size",
+          "scope": ""
+        },
+        {
+          "label": "在中堂小院",
+          "value": 20,
+          "unit": "个",
+          "sourceId": "qiao-size",
+          "scope": ""
+        },
+        {
+          "label": "在中堂房屋",
+          "value": 313,
+          "unit": "间",
+          "sourceId": "qiao-size",
+          "scope": ""
+        }
+      ],
+      "measurementNotes": "10642和4175平方米采用在中堂口径，不与四堂一园总面积混合；始建1755／1756的来源分歧仍保留。",
+      "objectLevel": "建筑群",
+      "rawMaterial": "主楼砖木结构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "qiao"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "qiao",
+            "qiao-alt"
+          ],
+          "kind": "来源分歧"
+        },
+        "structure": {
+          "sourceIds": [
+            "qiao"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "qiao"
+          ],
+          "kind": "文献与构件归类",
+          "note": "中国天气网明确称主楼为砖木结构；图谱单列“砖木复合”，不把砖墙与木作的组合简化成纯木构。"
+        }
+      },
+      "events": [
+        {
+          "label": "1755／1756年",
+          "start": 1755,
+          "end": 1756,
+          "event": "来源分歧",
+          "sourceIds": [
+            "qiao",
+            "qiao-alt"
+          ]
+        }
+      ],
+      "dataGaps": []
+    },
+    {
+      "id": "yinyu",
+      "name": "荫余堂",
+      "type": "民居",
+      "province": "安徽",
+      "city": "黄村（原址）",
+      "region": "华东",
+      "dynasty": "清",
+      "date": {
+        "start": 1800,
+        "end": 1800,
+        "label": "约1800年",
+        "kind": "近似始建",
+        "sourceIds": [
+          "yinyu"
+        ],
+        "intervalMeaning": "文献约数，非精确年"
+      },
+      "structure": "院落式",
+      "form": "天井型木构民居",
+      "material": "木构",
+      "materialBasis": "保存项目资料明确记载timber-frame construction。",
+      "sizes": [
+        {
+          "label": "主入口门洞宽",
+          "value": 125.97,
+          "unit": "cm",
+          "sourceId": "yinyu-doors",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "局部门洞宽，不是住宅面阔或全宅面积",
+          "locator": "表4.4第1行"
+        },
+        {
+          "label": "侧入口门洞宽",
+          "value": 82.63,
+          "unit": "cm",
+          "sourceId": "yinyu-doors",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "局部门洞宽",
+          "locator": "表4.4第2行"
+        },
+        {
+          "label": "7号卧室门洞宽",
+          "value": 57.94,
+          "unit": "cm",
+          "sourceId": "yinyu-doors",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "局部门洞宽",
+          "locator": "表4.4第3行"
+        },
+        {
+          "label": "8号卧室门洞宽",
+          "value": 55.72,
+          "unit": "cm",
+          "sourceId": "yinyu-doors",
+          "qualifier": "",
+          "relation": "exact",
+          "scope": "局部门洞宽",
+          "locator": "表4.4第4行"
+        }
+      ],
+      "achievement": "天井与木架空间",
+      "summary": "以天井、木架和围合房间组织家庭日常生活。",
+      "note": "图谱使用中国原址所在地域；建筑后迁美国，约1800年为建造口径。",
+      "sourceIds": [
+        "yinyu",
+        "yinyu-frame",
+        "yinyu-doors",
+        "yinyu-jgwa",
+        "yinyu-house"
+      ],
+      "facts": [
+        "原始构件标签体系约在1800年建造时形成。",
+        "保存项目记录木架及石材构件。"
+      ],
+      "counts": [
+        {
+          "label": "面阔开间",
+          "value": 5,
+          "unit": "间",
+          "sourceId": "yinyu-jgwa",
+          "scope": ""
+        },
+        {
+          "label": "楼层",
+          "value": 2,
+          "unit": "层",
+          "sourceId": "yinyu-jgwa",
+          "scope": ""
+        },
+        {
+          "label": "卧室",
+          "value": 16,
+          "unit": "间",
+          "sourceId": "yinyu-house",
+          "scope": ""
+        }
+      ],
+      "measurementNotes": "已补的4项尺寸是施工文件所载门洞宽度；全宅面积仍缺少已核对的同口径测绘依据。坊间2500、4500、5000平方英尺数字不混用。",
+      "objectLevel": "单体",
+      "rawMaterial": "timber frame; sandstone and brick exterior walls",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "yinyu"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "yinyu"
+          ],
+          "kind": "近似始建"
+        },
+        "structure": {
+          "sourceIds": [
+            "yinyu"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "yinyu-frame",
+            "yinyu-jgwa"
+          ],
+          "kind": "文献与构件归类",
+          "note": "保存项目资料明确记载timber-frame construction。"
+        }
+      },
+      "events": [
+        {
+          "label": "约1800年",
+          "start": 1800,
+          "end": 1800,
+          "event": "近似始建",
+          "sourceIds": [
+            "yinyu"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "全宅面积",
+          "requiredEvidence": "测绘平面图与明确占地／楼面定义",
+          "reason": "已采局部门洞宽；全宅尺寸缺少一致原始测绘口径。"
+        }
+      ]
+    },
+    {
+      "id": "chengzhi",
+      "name": "承志堂",
+      "type": "民居",
+      "province": "安徽",
+      "city": "宏村",
+      "region": "华东",
+      "dynasty": "清",
+      "date": {
+        "start": 1855,
+        "end": 1855,
+        "label": "1855年",
+        "kind": "建造",
+        "sourceIds": [
+          "chengzhi"
+        ],
+        "intervalMeaning": "单年"
+      },
+      "structure": "院落式",
+      "form": "徽州宅院",
+      "material": "木构",
+      "materialBasis": "谢臻2014年论文在第39页明确记述承志堂为木质结构；砖、石、木雕装饰不等同于三种主承重材料。",
+      "sizes": [
+        {
+          "label": "文献面积口径",
+          "value": 3000,
+          "unit": "m²",
+          "sourceId": "chengzhi-study",
+          "qualifier": "大于",
+          "relation": "gt",
+          "scope": "原文“总占建筑面积3000余平方米”，未取得测绘表，不能据此混同占地与总楼面面积",
+          "locator": "印刷页39，3.1民居"
+        }
+      ],
+      "achievement": "民居与水系",
+      "summary": "住宅空间与村落水圳相联系，展现徽州居住文化。",
+      "note": "采用央视资料的1855年及私家住宅属性；占地记述为2000多平方米，未转换为精确数值。",
+      "sourceIds": [
+        "chengzhi",
+        "chengzhi-study"
+      ],
+      "facts": [
+        "建造者为清代盐商汪定贵。",
+        "外观保持普通民居风格，内部装饰丰富。"
+      ],
+      "counts": [
+        {
+          "label": "天井",
+          "value": 9,
+          "unit": "个",
+          "sourceId": "chengzhi-study",
+          "scope": ""
+        },
+        {
+          "label": "房间",
+          "value": 60,
+          "unit": "间",
+          "sourceId": "chengzhi-study",
+          "scope": ""
+        },
+        {
+          "label": "木柱",
+          "value": 136,
+          "unit": "根",
+          "sourceId": "chengzhi-study",
+          "scope": ""
+        }
+      ],
+      "measurementNotes": "仅保留论文原述3000余平方米及其模糊面积名称。未据此声称已获得精确占地或楼面实测面积。",
+      "objectLevel": "建筑群",
+      "rawMaterial": "木质结构",
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "chengzhi"
+          ],
+          "kind": "文献记载"
+        },
+        "date": {
+          "sourceIds": [
+            "chengzhi"
+          ],
+          "kind": "建造"
+        },
+        "structure": {
+          "sourceIds": [
+            "chengzhi"
+          ],
+          "kind": "图谱整理归类",
+          "note": "形制分组不是独立的工程验算结论"
+        },
+        "material": {
+          "sourceIds": [
+            "chengzhi-study"
+          ],
+          "kind": "文献与构件归类",
+          "note": "谢臻2014年论文在第39页明确记述承志堂为木质结构；砖、石、木雕装饰不等同于三种主承重材料。"
+        }
+      },
+      "events": [
+        {
+          "label": "1855年",
+          "start": 1855,
+          "end": 1855,
+          "event": "建造",
+          "sourceIds": [
+            "chengzhi"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "精确占地与楼面面积",
+          "requiredEvidence": "房屋测绘表",
+          "reason": "论文的总占建筑面积表述未明确面积类型。"
+        }
+      ]
+    },
+    {
+      "id": "qianqing",
+      "name": "乾清宫",
+      "type": "皇宫",
+      "province": "北京",
+      "city": "故宫",
+      "region": "华北",
+      "dynasty": "明",
+      "date": {
+        "start": 1420,
+        "end": 1420,
+        "label": "1420年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-qianqing"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "重檐庑殿顶九间殿堂",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [
+        {
+          "label": "建筑面积",
+          "value": 1400,
+          "unit": "㎡",
+          "relation": "exact",
+          "scope": "单体殿堂，非后三宫区域",
+          "sourceId": "new-qianqing",
+          "locator": "建筑介绍相关段落"
+        },
+        {
+          "label": "台面至正脊高",
+          "value": 20,
+          "unit": "m",
+          "relation": "gt",
+          "scope": "原文20余米，不含台基",
+          "sourceId": "new-qianqing",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [
+        {
+          "label": "面阔",
+          "value": 9,
+          "unit": "间",
+          "scope": "连廊面阔",
+          "sourceId": "new-qianqing"
+        },
+        {
+          "label": "进深",
+          "value": 5,
+          "unit": "间",
+          "scope": "单体",
+          "sourceId": "new-qianqing"
+        }
+      ],
+      "sourceIds": [
+        "new-qianqing"
+      ],
+      "summary": "曾为帝王寝宫，后兼理政；现存建筑为1798年重建。",
+      "achievement": "从寝居，到理政",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "曾为帝王寝宫，后兼理政；现存建筑为1798年重建。",
+        "雍正移居养心殿之后，乾清宫承担召见、批阅奏章与宴会等功能。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1420年",
+          "start": 1420,
+          "end": 1420,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-qianqing"
+          ]
+        },
+        {
+          "label": "1798年",
+          "start": 1798,
+          "end": 1798,
+          "event": "现存建筑重建",
+          "sourceIds": [
+            "new-qianqing"
+          ]
+        }
+      ],
+      "dataGaps": [],
+      "visual": {
+        "kind": "hall",
+        "bays": 9,
+        "width": 88,
+        "depth": 56
+      },
+      "reading": {
+        "history": "乾清宫位于北京故宫。1420年是本图谱采用的年代记录。曾为帝王寝宫，后兼理政；现存建筑为1798年重建。",
+        "storyTitle": "从寝居，到理政",
+        "story": [
+          "雍正移居养心殿之后，乾清宫承担召见、批阅奏章与宴会等功能。",
+          "九间面阔与五间进深组织殿堂，功能变化发生在既有宫殿空间中。"
+        ],
+        "poemTitle": "从寝居",
+        "poem": [
+          "九间檐影纳晨光，",
+          "旧日寝居转殿堂。",
+          "风过长阶人已远，",
+          "梁间仍见岁时长。"
+        ],
+        "photoCaption": "乾清宫的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-qianqing"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-qianqing"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-qianqing"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-qianqing"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "kunning",
+      "name": "坤宁宫",
+      "type": "皇宫",
+      "province": "北京",
+      "city": "故宫",
+      "region": "华北",
+      "dynasty": "明",
+      "date": {
+        "start": 1420,
+        "end": 1420,
+        "label": "1420年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-kunning"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "重檐庑殿顶九间三间殿堂",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "连廊面阔",
+          "value": 9,
+          "unit": "间",
+          "scope": "单体",
+          "sourceId": "new-kunning"
+        },
+        {
+          "label": "进深",
+          "value": 3,
+          "unit": "间",
+          "scope": "单体",
+          "sourceId": "new-kunning"
+        }
+      ],
+      "sourceIds": [
+        "new-kunning"
+      ],
+      "summary": "明代皇后寝宫，清代1655年改造了门窗与室内布局。",
+      "achievement": "一座宫殿，两种生活秩序",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "明代皇后寝宫，清代1655年改造了门窗与室内布局。",
+        "顺治时期仿沈阳清宁宫改造，将入口移到东次间。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1420年",
+          "start": 1420,
+          "end": 1420,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-kunning"
+          ]
+        },
+        {
+          "label": "1605年",
+          "start": 1605,
+          "end": 1605,
+          "event": "火灾后重建",
+          "sourceIds": [
+            "new-kunning"
+          ]
+        },
+        {
+          "label": "1655年",
+          "start": 1655,
+          "end": 1655,
+          "event": "按清宁宫形式改造",
+          "sourceIds": [
+            "new-kunning"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "hall",
+        "bays": 9,
+        "width": 100,
+        "depth": 40
+      },
+      "reading": {
+        "history": "坤宁宫位于北京故宫。1420年是本图谱采用的年代记录。明代皇后寝宫，清代1655年改造了门窗与室内布局。",
+        "storyTitle": "一座宫殿，两种生活秩序",
+        "story": [
+          "顺治时期仿沈阳清宁宫改造，将入口移到东次间。",
+          "东侧暖阁和西侧空间承担不同用途；书中按宫殿身份收录，不把附属仪式空间另计为样本。"
+        ],
+        "poemTitle": "一座宫殿",
+        "poem": [
+          "东门一转入宫深，",
+          "九间檐下见时痕。",
+          "窗影曾随生活换，",
+          "长廊仍把院相邻。"
+        ],
+        "photoCaption": "坤宁宫的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-kunning"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-kunning"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-kunning"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-kunning"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "yangxin",
+      "name": "养心殿",
+      "type": "皇宫",
+      "province": "北京",
+      "city": "故宫",
+      "region": "华北",
+      "dynasty": "明",
+      "date": {
+        "start": 1537,
+        "end": 1537,
+        "label": "1537年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-yangxin",
+          "new-yangxin-date"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "工字形殿与卷棚抱厦",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [
+        {
+          "label": "前殿通面阔",
+          "value": 36,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "前殿，不是整个养心殿区",
+          "sourceId": "new-yangxin",
+          "locator": "建筑介绍相关段落"
+        },
+        {
+          "label": "前殿通进深",
+          "value": 12,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "前殿",
+          "sourceId": "new-yangxin",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [],
+      "sourceIds": [
+        "new-yangxin",
+        "new-yangxin-date"
+      ],
+      "summary": "工字形布局将理政、读书与寝居联系起来。",
+      "achievement": "大殿里的小房间",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "工字形布局将理政、读书与寝居联系起来。",
+        "明间、东暖阁与西暖阁各有分工，西侧又分出三希堂等小空间。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1537年",
+          "start": 1537,
+          "end": 1537,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-yangxin",
+            "new-yangxin-date"
+          ]
+        }
+      ],
+      "dataGaps": [],
+      "visual": {
+        "kind": "courtyard",
+        "layout": "linked-halls",
+        "rows": 2,
+        "width": 85
+      },
+      "reading": {
+        "history": "养心殿位于北京故宫。1537年是本图谱采用的年代记录。工字形布局将理政、读书与寝居联系起来。",
+        "storyTitle": "大殿里的小房间",
+        "story": [
+          "明间、东暖阁与西暖阁各有分工，西侧又分出三希堂等小空间。",
+          "建筑的故事不是只有宏大尺度，也包含隔扇如何分出可停留、可交谈的房间。"
+        ],
+        "poemTitle": "大殿里的小房间",
+        "poem": [
+          "窗分暖阁一灯明，",
+          "几案之间听殿声。",
+          "纸上山河梁下事，",
+          "夜深仍有墨香清。"
+        ],
+        "photoCaption": "养心殿的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-yangxin",
+            "new-yangxin-date"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-yangxin",
+            "new-yangxin-date"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-yangxin",
+            "new-yangxin-date"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-yangxin",
+            "new-yangxin-date"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "wenhua",
+      "name": "文华殿",
+      "type": "皇宫",
+      "province": "北京",
+      "city": "故宫",
+      "region": "华北",
+      "dynasty": "明",
+      "date": {
+        "start": 1420,
+        "end": 1420,
+        "label": "1420年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-wenhua",
+          "new-wenhua-date"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "工字形单檐歇山殿",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "前殿面阔",
+          "value": 5,
+          "unit": "间",
+          "scope": "前殿",
+          "sourceId": "new-wenhua"
+        },
+        {
+          "label": "前殿进深",
+          "value": 3,
+          "unit": "间",
+          "scope": "前殿",
+          "sourceId": "new-wenhua"
+        }
+      ],
+      "sourceIds": [
+        "new-wenhua",
+        "new-wenhua-date"
+      ],
+      "summary": "前后殿以穿廊相连，明清时期曾用于经筵。",
+      "achievement": "前后两殿，一条穿廊",
+      "note": "故宫建筑介绍称始建明初；另故宫青玉“文华殿宝”介绍记1420年。此处采用后者，现存主体为1683年后重建。",
+      "facts": [
+        "前后殿以穿廊相连，明清时期曾用于经筵。",
+        "前殿为文华殿，后殿为主敬殿，中间以穿廊联系。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1420年",
+          "start": 1420,
+          "end": 1420,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-wenhua",
+            "new-wenhua-date"
+          ]
+        },
+        {
+          "label": "1683年",
+          "start": 1683,
+          "end": 1683,
+          "event": "开始重建",
+          "sourceIds": [
+            "new-wenhua"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "layout": "linked-halls",
+        "rows": 2,
+        "width": 76
+      },
+      "reading": {
+        "history": "文华殿位于北京故宫。1420年是本图谱采用的年代记录。前后殿以穿廊相连，明清时期曾用于经筵。",
+        "storyTitle": "前后两殿，一条穿廊",
+        "story": [
+          "前殿为文华殿，后殿为主敬殿，中间以穿廊联系。",
+          "不同殿室共同组成工字形平面，把讲读与宫廷活动放进一组连续空间。"
+        ],
+        "poemTitle": "前后两殿",
+        "poem": [
+          "前后檐光一廊连，",
+          "书声曾绕殿中天。",
+          "风翻旧页无声过，",
+          "日影还从柱外迁。"
+        ],
+        "photoCaption": "文华殿与主敬殿之间的穿廊及现今展陈。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-wenhua"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-wenhua",
+            "new-wenhua-date"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-wenhua"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-wenhua"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "wuying",
+      "name": "武英殿",
+      "type": "皇宫",
+      "province": "北京",
+      "city": "故宫",
+      "region": "华北",
+      "dynasty": "明",
+      "date": {
+        "start": 1368,
+        "end": 1424,
+        "label": "明初（图区间1368—1424年）",
+        "kind": "营建时期范围",
+        "sourceIds": [
+          "new-wuying"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "单檐歇山前后殿与穿廊",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "正殿面阔",
+          "value": 5,
+          "unit": "间",
+          "scope": "单体正殿",
+          "sourceId": "new-wuying"
+        },
+        {
+          "label": "正殿进深",
+          "value": 3,
+          "unit": "间",
+          "scope": "单体正殿",
+          "sourceId": "new-wuying"
+        }
+      ],
+      "sourceIds": [
+        "new-wuying"
+      ],
+      "summary": "清代武英殿书局在此刊印、装潢宫廷书籍。",
+      "achievement": "宫殿，也容纳刻书的人",
+      "note": "官网只记明初；1368—1424为本图谱洪武至永乐的整理范围，不是已证实的施工起止年。现存建筑包含1869年重建。",
+      "facts": [
+        "清代武英殿书局在此刊印、装潢宫廷书籍。",
+        "康熙时期左右廊房成为修书处，印刷、装潢等活动在殿区展开。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "明初（图区间1368—1424年）",
+          "start": 1368,
+          "end": 1424,
+          "event": "营建时期范围",
+          "sourceIds": [
+            "new-wuying"
+          ]
+        },
+        {
+          "label": "1869年",
+          "start": 1869,
+          "end": 1869,
+          "event": "火灾后同年重建",
+          "sourceIds": [
+            "new-wuying"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        },
+        {
+          "field": "确切营建年",
+          "reason": "资料仅给出时期或存在年代分歧。",
+          "requiredEvidence": "纪年碑、营造档案或断代研究"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "layout": "linked-halls",
+        "rows": 2,
+        "width": 82
+      },
+      "reading": {
+        "history": "武英殿位于北京故宫。明初（图区间1368—1424年）是本图谱采用的年代记录。清代武英殿书局在此刊印、装潢宫廷书籍。",
+        "storyTitle": "宫殿，也容纳刻书的人",
+        "story": [
+          "康熙时期左右廊房成为修书处，印刷、装潢等活动在殿区展开。",
+          "正殿与敬思殿以前后穿廊连接，殿、廊、院落共同组织工作与储藏。"
+        ],
+        "poemTitle": "宫殿",
+        "poem": [
+          "殿前风静纸声轻，",
+          "字字曾从此处生。",
+          "一廊连起前和后，",
+          "书影随檐到日明。"
+        ],
+        "photoCaption": "武英殿的檐部与脊兽细部。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-wuying"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-wuying"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-wuying"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-wuying"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "cining",
+      "name": "慈宁宫",
+      "type": "皇宫",
+      "province": "北京",
+      "city": "故宫",
+      "region": "华北",
+      "dynasty": "明",
+      "date": {
+        "start": 1536,
+        "end": 1536,
+        "label": "1536年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-cining"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "重檐歇山七间正殿",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "正殿面阔",
+          "value": 7,
+          "unit": "间",
+          "scope": "单体正殿",
+          "sourceId": "new-cining"
+        }
+      ],
+      "sourceIds": [
+        "new-cining"
+      ],
+      "summary": "主要用于太后重大典礼，1769年改成重檐形制。",
+      "achievement": "从单檐，到重檐",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "主要用于太后重大典礼，1769年改成重檐形制。",
+        "乾隆时期将正殿由单檐改为重檐，并调整后寝殿的位置。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1536年",
+          "start": 1536,
+          "end": 1536,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-cining"
+          ]
+        },
+        {
+          "label": "1769年",
+          "start": 1769,
+          "end": 1769,
+          "event": "由单檐改重檐，调整后殿",
+          "sourceIds": [
+            "new-cining"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "hall",
+        "bays": 7,
+        "width": 83,
+        "depth": 52
+      },
+      "reading": {
+        "history": "慈宁宫位于北京故宫。1536年是本图谱采用的年代记录。主要用于太后重大典礼，1769年改成重檐形制。",
+        "storyTitle": "从单檐，到重檐",
+        "story": [
+          "乾隆时期将正殿由单檐改为重檐，并调整后寝殿的位置。",
+          "因此，1536年表示这处宫殿的始建记录，不能直接解释今天所有屋顶与院落细节。"
+        ],
+        "poemTitle": "从单檐",
+        "poem": [
+          "双檐叠影对长阶，",
+          "旧制新修岁月排。",
+          "宫里春光无定式，",
+          "风来仍向廊中来。"
+        ],
+        "photoCaption": "慈宁宫的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-cining"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-cining"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-cining"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-cining"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "huangji",
+      "name": "皇极殿",
+      "type": "皇宫",
+      "province": "北京",
+      "city": "故宫宁寿宫区",
+      "region": "华北",
+      "dynasty": "清",
+      "date": {
+        "start": 1689,
+        "end": 1689,
+        "label": "1689年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-huangji"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "重檐庑殿九五开间",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "面阔",
+          "value": 9,
+          "unit": "间",
+          "scope": "单体",
+          "sourceId": "new-huangji"
+        },
+        {
+          "label": "进深",
+          "value": 5,
+          "unit": "间",
+          "scope": "单体",
+          "sourceId": "new-huangji"
+        }
+      ],
+      "sourceIds": [
+        "new-huangji"
+      ],
+      "summary": "原为宁寿宫，1772—1776年改建时改称皇极殿。",
+      "achievement": "为退居生活，安排礼仪空间",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "原为宁寿宫，1772—1776年改建时改称皇极殿。",
+        "殿前月台、甬道与宁寿门相接，形成礼仪通行的路径。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1689年",
+          "start": 1689,
+          "end": 1689,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-huangji"
+          ]
+        },
+        {
+          "label": "1772年",
+          "start": 1772,
+          "end": 1772,
+          "event": "开始改建宁寿宫区",
+          "sourceIds": [
+            "new-huangji"
+          ]
+        },
+        {
+          "label": "1776年",
+          "start": 1776,
+          "end": 1776,
+          "event": "改建区间终点",
+          "sourceIds": [
+            "new-huangji"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "hall",
+        "bays": 9,
+        "width": 92,
+        "depth": 48
+      },
+      "reading": {
+        "history": "皇极殿位于北京故宫宁寿宫区。1689年是本图谱采用的年代记录。原为宁寿宫，1772—1776年改建时改称皇极殿。",
+        "storyTitle": "为退居生活，安排礼仪空间",
+        "story": [
+          "殿前月台、甬道与宁寿门相接，形成礼仪通行的路径。",
+          "乾隆退居后的受贺活动与千叟宴，使这座殿在寝居区域中承担典礼用途。"
+        ],
+        "poemTitle": "为退居生活",
+        "poem": [
+          "九五檐间纳岁长，",
+          "阶前曾聚老年光。",
+          "宫名改处门犹在，",
+          "风把前尘过殿堂。"
+        ],
+        "photoCaption": "皇极殿的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-huangji"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-huangji"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-huangji"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-huangji"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "chongzheng",
+      "name": "崇政殿",
+      "type": "皇宫",
+      "province": "辽宁",
+      "city": "沈阳故宫",
+      "region": "东北",
+      "dynasty": "后金",
+      "date": {
+        "start": 1627,
+        "end": 1636,
+        "label": "后金天聪年间（1627—1636）",
+        "kind": "营建时期范围",
+        "sourceIds": [
+          "new-shenyang"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "单檐硬山五间殿堂",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "面阔",
+          "value": 5,
+          "unit": "间",
+          "scope": "单体",
+          "sourceId": "new-shenyang"
+        }
+      ],
+      "sourceIds": [
+        "new-shenyang"
+      ],
+      "summary": "后金时期临朝理政，殿内采取彻上明造。",
+      "achievement": "抬头，看见梁架",
+      "note": "按博物院当前正文记录天聪时期；范围不是已确认的连续施工工期。",
+      "facts": [
+        "后金时期临朝理政，殿内采取彻上明造。",
+        "殿内不装天花板，梁架直接进入人的视线。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "后金天聪年间（1627—1636）",
+          "start": 1627,
+          "end": 1636,
+          "event": "营建时期范围",
+          "sourceIds": [
+            "new-shenyang"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        },
+        {
+          "field": "确切营建年",
+          "reason": "资料仅给出时期或存在年代分歧。",
+          "requiredEvidence": "纪年碑、营造档案或断代研究"
+        }
+      ],
+      "visual": {
+        "kind": "hall",
+        "bays": 5,
+        "width": 80,
+        "depth": 55,
+        "roof": "gable"
+      },
+      "reading": {
+        "history": "崇政殿位于辽宁沈阳故宫。后金天聪年间（1627—1636）是本图谱采用的年代记录。后金时期临朝理政，殿内采取彻上明造。",
+        "storyTitle": "抬头，看见梁架",
+        "story": [
+          "殿内不装天花板，梁架直接进入人的视线。",
+          "装饰性的龙形抱头梁，也参与了殿堂的构造表达。"
+        ],
+        "poemTitle": "抬头",
+        "poem": [
+          "五间梁上龙形动，",
+          "殿内抬头见木纹。",
+          "未把天花遮旧架，",
+          "日光从此辨层深。"
+        ],
+        "photoCaption": "崇政殿的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "fenghuang",
+      "name": "凤凰楼",
+      "type": "皇宫",
+      "province": "辽宁",
+      "city": "沈阳故宫",
+      "region": "东北",
+      "dynasty": "后金",
+      "date": {
+        "start": 1627,
+        "end": 1636,
+        "label": "后金天聪年间（1627—1636）",
+        "kind": "营建时期范围",
+        "sourceIds": [
+          "new-shenyang"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "三层三滴水歇山楼阁",
+      "material": "砖木复合",
+      "rawMaterial": "砖木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "楼层",
+          "value": 3,
+          "unit": "层",
+          "scope": "楼阁",
+          "sourceId": "new-shenyang"
+        }
+      ],
+      "sourceIds": [
+        "new-shenyang"
+      ],
+      "summary": "三层楼阁位于高台寝宫区的门户。",
+      "achievement": "登楼，也是在穿过门户",
+      "note": "按博物院当前正文记录天聪时期；范围不是已确认的连续施工工期。",
+      "facts": [
+        "三层楼阁位于高台寝宫区的门户。",
+        "凤凰楼兼有通行、停留与藏书等历史用途。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "后金天聪年间（1627—1636）",
+          "start": 1627,
+          "end": 1636,
+          "event": "营建时期范围",
+          "sourceIds": [
+            "new-shenyang"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        },
+        {
+          "field": "确切营建年",
+          "reason": "资料仅给出时期或存在年代分歧。",
+          "requiredEvidence": "纪年碑、营造档案或断代研究"
+        }
+      ],
+      "visual": {
+        "kind": "tower",
+        "levels": 3
+      },
+      "reading": {
+        "history": "凤凰楼位于辽宁沈阳故宫。后金天聪年间（1627—1636）是本图谱采用的年代记录。三层楼阁位于高台寝宫区的门户。",
+        "storyTitle": "登楼，也是在穿过门户",
+        "story": [
+          "凤凰楼兼有通行、停留与藏书等历史用途。",
+          "三层三滴水的屋顶，使进入高台寝宫区的路径获得鲜明的竖向标志。"
+        ],
+        "poemTitle": "登楼",
+        "poem": [
+          "三层檐影接晨辉，",
+          "一楼风起旧书归。",
+          "高台门外看城远，",
+          "云过层檐日未微。"
+        ],
+        "photoCaption": "凤凰楼的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "qingning",
+      "name": "清宁宫",
+      "type": "皇宫",
+      "province": "辽宁",
+      "city": "沈阳故宫",
+      "region": "东北",
+      "dynasty": "后金",
+      "date": {
+        "start": 1627,
+        "end": 1636,
+        "label": "后金天聪年间（1627—1636）",
+        "kind": "营建时期范围",
+        "sourceIds": [
+          "new-shenyang"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "五间硬山口袋房",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "面阔",
+          "value": 5,
+          "unit": "间",
+          "scope": "单体",
+          "sourceId": "new-shenyang"
+        }
+      ],
+      "sourceIds": [
+        "new-shenyang"
+      ],
+      "summary": "入口位于东次间，室内有南、西、北三面万字炕。",
+      "achievement": "门的位置，改变室内路径",
+      "note": "按博物院当前正文记录天聪时期；范围不是已确认的连续施工工期。",
+      "facts": [
+        "入口位于东次间，室内有南、西、北三面万字炕。",
+        "东次间入口与通常居中的入口不同，使空间展开有了自己的秩序。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "后金天聪年间（1627—1636）",
+          "start": 1627,
+          "end": 1636,
+          "event": "营建时期范围",
+          "sourceIds": [
+            "new-shenyang"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        },
+        {
+          "field": "确切营建年",
+          "reason": "资料仅给出时期或存在年代分歧。",
+          "requiredEvidence": "纪年碑、营造档案或断代研究"
+        }
+      ],
+      "visual": {
+        "kind": "hall",
+        "bays": 5,
+        "width": 86,
+        "depth": 38,
+        "roof": "gable"
+      },
+      "reading": {
+        "history": "清宁宫位于辽宁沈阳故宫。后金天聪年间（1627—1636）是本图谱采用的年代记录。入口位于东次间，室内有南、西、北三面万字炕。",
+        "storyTitle": "门的位置，改变室内路径",
+        "story": [
+          "东次间入口与通常居中的入口不同，使空间展开有了自己的秩序。",
+          "宫区建在高台上，与南侧崇政殿形成宫高殿低的布局。"
+        ],
+        "poemTitle": "门的位置",
+        "poem": [
+          "门向东间留一转，",
+          "三面炕前日影深。",
+          "高台把家托起处，",
+          "宫墙之内有居心。"
+        ],
+        "photoCaption": "清宁宫的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-shenyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "huozhou",
+      "name": "霍州署大堂",
+      "type": "官府",
+      "province": "山西",
+      "city": "霍州",
+      "region": "华北",
+      "dynasty": "元",
+      "date": {
+        "start": 1271,
+        "end": 1368,
+        "label": "元代（1271—1368年范围）",
+        "kind": "现存遗构时期范围",
+        "sourceIds": [
+          "new-huozhou",
+          "new-huozhou-form"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "殿堂木架",
+      "form": "悬山顶五间元代大堂",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-huozhou",
+        "new-huozhou-form"
+      ],
+      "summary": "现存州署大堂被列为元代建筑，不把现代复建谯楼作为元代遗构。",
+      "achievement": "官署中，留下的大堂",
+      "note": "国保记录只断代为元；不采用未统一核实的1303或1304年。图版采用明代州署平面图，不冒充元代大堂照片。",
+      "facts": [
+        "现存州署大堂被列为元代建筑，不把现代复建谯楼作为元代遗构。",
+        "现存大堂的梁架与宽阔厅堂，是阅读州级官署的重要对象。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "元代（1271—1368年范围）",
+          "start": 1271,
+          "end": 1368,
+          "event": "现存遗构时期范围",
+          "sourceIds": [
+            "new-huozhou",
+            "new-huozhou-form"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        },
+        {
+          "field": "确切营建年",
+          "reason": "资料仅给出时期或存在年代分歧。",
+          "requiredEvidence": "纪年碑、营造档案或断代研究"
+        }
+      ],
+      "visual": {
+        "kind": "hall",
+        "bays": 5,
+        "width": 82,
+        "depth": 63,
+        "roof": "gable"
+      },
+      "reading": {
+        "history": "霍州署大堂位于山西霍州。元代（1271—1368年范围）是本图谱采用的年代记录。现存州署大堂被列为元代建筑，不把现代复建谯楼作为元代遗构。",
+        "storyTitle": "官署中，留下的大堂",
+        "story": [
+          "现存大堂的梁架与宽阔厅堂，是阅读州级官署的重要对象。",
+          "州署整体经历了后世营建与修复，本书将大堂与外围复建部分分开说明。"
+        ],
+        "poemTitle": "官署中",
+        "poem": [
+          "堂前日影入梁间，",
+          "元构无声岁月看。",
+          "旧署新修须分辨，",
+          "一堂风过见长年。"
+        ],
+        "photoCaption": "1558年《霍州志》所载州署平面图，非元代大堂实景照片。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-huozhou",
+            "new-huozhou-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-huozhou",
+            "new-huozhou-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-huozhou",
+            "new-huozhou-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-huozhou",
+            "new-huozhou-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "pingyao",
+      "name": "平遥县衙",
+      "type": "官府",
+      "province": "山西",
+      "city": "平遥",
+      "region": "华北",
+      "dynasty": "元",
+      "date": {
+        "start": 1346,
+        "end": 1346,
+        "label": "1346年",
+        "kind": "最早现存附属遗构年代",
+        "sourceIds": [
+          "new-pingyao"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "多进中轴院落官署",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-pingyao"
+      ],
+      "summary": "中轴院落分出办公、辅助与生活空间，现存建筑主要为明清营建。",
+      "achievement": "门内门外，空间各有次序",
+      "note": "1346用于现存遗构标定，不是全县衙的统一始建年；照片为县衙现今状态。",
+      "facts": [
+        "中轴院落分出办公、辅助与生活空间，现存建筑主要为明清营建。",
+        "仪门与大堂等空间逐层展开，办公与生活通过院落划分。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1346年",
+          "start": 1346,
+          "end": 1346,
+          "event": "最早现存附属遗构年代",
+          "sourceIds": [
+            "new-pingyao"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 3,
+        "width": 95
+      },
+      "reading": {
+        "history": "平遥县衙位于山西平遥。1346年是本图谱采用的年代记录。中轴院落分出办公、辅助与生活空间，现存建筑主要为明清营建。",
+        "storyTitle": "门内门外，空间各有次序",
+        "story": [
+          "仪门与大堂等空间逐层展开，办公与生活通过院落划分。",
+          "1346年是资料中最早现存附属遗构的年代，不能把整座县衙都定为该年建成。"
+        ],
+        "poemTitle": "门内门外",
+        "poem": [
+          "重门次第引庭深，",
+          "旧署长廊纳日阴。",
+          "一院一阶分职事，",
+          "风来还辨往来人。"
+        ],
+        "photoCaption": "平遥县衙的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-pingyao"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-pingyao"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-pingyao"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-pingyao"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "nanyang",
+      "name": "南阳府衙",
+      "type": "官府",
+      "province": "河南",
+      "city": "南阳",
+      "region": "华中",
+      "dynasty": "元",
+      "date": {
+        "start": 1271,
+        "end": 1271,
+        "label": "1271年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-nanyang-size",
+          "new-nanyang"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "多路多进硬山官署",
+      "material": null,
+      "rawMaterial": "未载明",
+      "materialBasis": "现有依据尚不足以确认整体承重材料，不从外观或瓦片推断。",
+      "sizes": [
+        {
+          "label": "南北长",
+          "value": 240,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "现存府衙区域",
+          "sourceId": "new-nanyang-size",
+          "locator": "建筑介绍相关段落"
+        },
+        {
+          "label": "东西宽",
+          "value": 150,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "现存府衙区域",
+          "sourceId": "new-nanyang-size",
+          "locator": "建筑介绍相关段落"
+        },
+        {
+          "label": "面积",
+          "value": 36000,
+          "unit": "㎡",
+          "relation": "exact",
+          "scope": "现存府衙区域",
+          "sourceId": "new-nanyang-size",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [],
+      "sourceIds": [
+        "new-nanyang-size",
+        "new-nanyang"
+      ],
+      "summary": "多路院落与中轴大堂共同组织府级官署。",
+      "achievement": "中轴之外，还有左右两路",
+      "note": "采用1271年；文旅页记元至元八年，另一政府介绍记南宋咸淳七年。尺寸按后者现存官署范围记录，材料未确认。",
+      "facts": [
+        "多路院落与中轴大堂共同组织府级官署。",
+        "中央堂屋与两侧辅助建筑形成主从有序的布局。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1271年",
+          "start": 1271,
+          "end": 1271,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-nanyang-size",
+            "new-nanyang"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "整体主承重材料",
+          "reason": "现有介绍不足以确认整体体系。",
+          "requiredEvidence": "结构测绘或修缮说明"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 3,
+        "width": 108
+      },
+      "reading": {
+        "history": "南阳府衙位于河南南阳。1271年是本图谱采用的年代记录。多路院落与中轴大堂共同组织府级官署。",
+        "storyTitle": "中轴之外，还有左右两路",
+        "story": [
+          "中央堂屋与两侧辅助建筑形成主从有序的布局。",
+          "公开文旅记载与政府介绍对1271年的朝代纪年措辞不同，书页保留这项差异。"
+        ],
+        "poemTitle": "中轴之外",
+        "poem": [
+          "堂在中间路向旁，",
+          "重门分出院深长。",
+          "年月留痕须细读，",
+          "风从旧署过回廊。"
+        ],
+        "photoCaption": "南阳府衙的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-nanyang-size",
+            "new-nanyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-nanyang-size",
+            "new-nanyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-nanyang-size",
+            "new-nanyang"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "huaian",
+      "name": "淮安府署",
+      "type": "官府",
+      "province": "江苏",
+      "city": "淮安",
+      "region": "华东",
+      "dynasty": "明",
+      "date": {
+        "start": 1370,
+        "end": 1370,
+        "label": "1370年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-huaian"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "多进官署与高大正堂",
+      "material": null,
+      "rawMaterial": "未载明",
+      "materialBasis": "现有依据尚不足以确认整体承重材料，不从外观或瓦片推断。",
+      "sizes": [
+        {
+          "label": "正堂高",
+          "value": 10,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "单体正堂",
+          "sourceId": "new-huaian",
+          "locator": "建筑介绍相关段落"
+        },
+        {
+          "label": "正堂面积",
+          "value": 500,
+          "unit": "㎡",
+          "relation": "gt",
+          "scope": "原文500余平方米，单体正堂",
+          "sourceId": "new-huaian",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [],
+      "sourceIds": [
+        "new-huaian"
+      ],
+      "summary": "府署长期参与运河沿线的行政活动。",
+      "achievement": "运河边，一座治理的院落",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "府署长期参与运河沿线的行政活动。",
+        "府署沿用至清末，正堂是官署空间的核心。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1370年",
+          "start": 1370,
+          "end": 1370,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-huaian"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "整体主承重材料",
+          "reason": "现有介绍不足以确认整体体系。",
+          "requiredEvidence": "结构测绘或修缮说明"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 3,
+        "width": 90
+      },
+      "reading": {
+        "history": "淮安府署位于江苏淮安。1370年是本图谱采用的年代记录。府署长期参与运河沿线的行政活动。",
+        "storyTitle": "运河边，一座治理的院落",
+        "story": [
+          "府署沿用至清末，正堂是官署空间的核心。",
+          "收录的高10米、面积500余平方米，只指正堂，不能套用为整个府署的尺度。"
+        ],
+        "poemTitle": "运河边",
+        "poem": [
+          "运河声远到庭前，",
+          "堂屋留光院接天。",
+          "一署经年持旧路，",
+          "风从门外入檐边。"
+        ],
+        "photoCaption": "淮安府署院落形制概念图，非实景摄影。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-huaian"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-huaian"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-huaian"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "wangjia",
+      "name": "王家大院",
+      "type": "民居",
+      "province": "山西",
+      "city": "灵石静升",
+      "region": "华北",
+      "dynasty": "清",
+      "date": {
+        "start": 1662,
+        "end": 1820,
+        "label": "清康熙至嘉庆时期（1662—1820）",
+        "kind": "陆续营建时期范围",
+        "sourceIds": [
+          "new-wangjia"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "依山城堡式院落群",
+      "material": "砖木复合",
+      "rawMaterial": "砖木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-wangjia"
+      ],
+      "summary": "清康熙至嘉庆间陆续营建，院落依山展开。",
+      "achievement": "院中有院，顺着地势生长",
+      "note": "时间为多期营建的朝代范围，非158年的单一施工工期；尺寸总数因区域口径不同暂未合并。",
+      "facts": [
+        "清康熙至嘉庆间陆续营建，院落依山展开。",
+        "高家崖、红门堡等区域共同呈现城堡式住宅组织。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "清康熙至嘉庆时期（1662—1820）",
+          "start": 1662,
+          "end": 1820,
+          "event": "陆续营建时期范围",
+          "sourceIds": [
+            "new-wangjia"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        },
+        {
+          "field": "确切营建年",
+          "reason": "资料仅给出时期或存在年代分歧。",
+          "requiredEvidence": "纪年碑、营造档案或断代研究"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 3,
+        "width": 110,
+        "terrace": true
+      },
+      "reading": {
+        "history": "王家大院位于山西灵石静升。清康熙至嘉庆时期（1662—1820）是本图谱采用的年代记录。清康熙至嘉庆间陆续营建，院落依山展开。",
+        "storyTitle": "院中有院，顺着地势生长",
+        "story": [
+          "高家崖、红门堡等区域共同呈现城堡式住宅组织。",
+          "宅院数量和面积随开放范围变化，因此本轮不合并不同介绍中的总数。"
+        ],
+        "poemTitle": "院中有院",
+        "poem": [
+          "层院依山接旧门，",
+          "阶随坡势入檐阴。",
+          "高低错落人家路，",
+          "一堡风来几院深。"
+        ],
+        "photoCaption": "王家大院的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-wangjia"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-wangjia"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-wangjia"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-wangjia"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "huangcheng",
+      "name": "皇城相府",
+      "type": "民居",
+      "province": "山西",
+      "city": "阳城北留",
+      "region": "华北",
+      "dynasty": "明",
+      "date": {
+        "start": 1632,
+        "end": 1632,
+        "label": "1632年",
+        "kind": "早期核心建筑营建年",
+        "sourceIds": [
+          "new-huangcheng"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "城堡式官宦私宅与高楼",
+      "material": "砖木复合",
+      "rawMaterial": "砖木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "河山楼层数",
+          "value": 7,
+          "unit": "层",
+          "scope": "单体河山楼",
+          "sourceId": "new-huangcheng"
+        }
+      ],
+      "sourceIds": [
+        "new-huangcheng"
+      ],
+      "summary": "以1632年河山楼营建标定早期阶段，宅院延续明清多期建造。",
+      "achievement": "高楼，成为宅院的庇护",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "以1632年河山楼营建标定早期阶段，宅院延续明清多期建造。",
+        "河山楼与藏兵洞是住宅中的防卫性空间。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1632年",
+          "start": 1632,
+          "end": 1632,
+          "event": "早期核心建筑营建年",
+          "sourceIds": [
+            "new-huangcheng"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 2,
+        "width": 105,
+        "tower": true
+      },
+      "reading": {
+        "history": "皇城相府位于山西阳城北留。1632年是本图谱采用的年代记录。以1632年河山楼营建标定早期阶段，宅院延续明清多期建造。",
+        "storyTitle": "高楼，成为宅院的庇护",
+        "story": [
+          "河山楼与藏兵洞是住宅中的防卫性空间。",
+          "它是官员的私人宅居建筑群，不按衙署或皇宫分类；1632也不表示全部房屋同时建成。"
+        ],
+        "poemTitle": "高楼",
+        "poem": [
+          "高楼守住院中天，",
+          "门在堡间路相连。",
+          "宅里长留庇护意，",
+          "檐风轻过旧家园。"
+        ],
+        "photoCaption": "皇城相府的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-huangcheng"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-huangcheng"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-huangcheng"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-huangcheng"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "shijia",
+      "name": "石家大院",
+      "type": "民居",
+      "province": "天津",
+      "city": "杨柳青",
+      "region": "华北",
+      "dynasty": "清",
+      "date": {
+        "start": 1875,
+        "end": 1875,
+        "label": "1875年",
+        "kind": "大规模营建起点",
+        "sourceIds": [
+          "new-shijia"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "多组四合院商宅",
+      "material": "砖木复合",
+      "rawMaterial": "砖木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [
+        {
+          "label": "占地面积",
+          "value": 10000,
+          "unit": "㎡",
+          "relation": "approx",
+          "scope": "原文约1万平方米，宅院范围",
+          "sourceId": "new-shijia",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [],
+      "sourceIds": [
+        "new-shijia"
+      ],
+      "summary": "清末大规模营建，甬道与院落组织商宅生活。",
+      "achievement": "把生活，分到不同院落",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "清末大规模营建，甬道与院落组织商宅生活。",
+        "宅院入口、厅堂和居住空间形成递进关系。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1875年",
+          "start": 1875,
+          "end": 1875,
+          "event": "大规模营建起点",
+          "sourceIds": [
+            "new-shijia"
+          ]
+        }
+      ],
+      "dataGaps": [],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 2,
+        "width": 94
+      },
+      "reading": {
+        "history": "石家大院位于天津杨柳青。1875年是本图谱采用的年代记录。清末大规模营建，甬道与院落组织商宅生活。",
+        "storyTitle": "把生活，分到不同院落",
+        "story": [
+          "宅院入口、厅堂和居住空间形成递进关系。",
+          "砖雕、木雕与石雕出现在不同构件上，共同构成宅院的细部。"
+        ],
+        "poemTitle": "把生活",
+        "poem": [
+          "青砖门里又开庭，",
+          "细刻梁边日影生。",
+          "甬道牵来人家事，",
+          "一院春风一院明。"
+        ],
+        "photoCaption": "石家大院客屋内景。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-shijia"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-shijia"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-shijia"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-shijia"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "gaojia",
+      "name": "高家大院（西安）",
+      "type": "民居",
+      "province": "陕西",
+      "city": "西安北院门144号",
+      "region": "西北",
+      "dynasty": "明",
+      "date": {
+        "start": 1628,
+        "end": 1644,
+        "label": "明崇祯时期（1628—1644）",
+        "kind": "营建时期范围",
+        "sourceIds": [
+          "new-gaojia",
+          "new-gaojia-identity"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "三院四进砖木四合院",
+      "material": "砖木复合",
+      "rawMaterial": "砖木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [
+        {
+          "label": "总居住面积",
+          "value": 2517,
+          "unit": "㎡",
+          "relation": "exact",
+          "scope": "辅助旅游介绍所称居住面积，测绘口径待核",
+          "sourceId": "new-gaojia",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [],
+      "sourceIds": [
+        "new-gaojia",
+        "new-gaojia-identity"
+      ],
+      "summary": "主体营建记为明崇祯时期，位于北院门历史街区。",
+      "achievement": "热闹街巷，转入安静院中",
+      "note": "不把网上常见1641年直接作为已确认精确年；本条采用原文崇祯时期。",
+      "facts": [
+        "主体营建记为明崇祯时期，位于北院门历史街区。",
+        "从北院门街进入宅院，空间从街巷转为层层院落。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "明崇祯时期（1628—1644）",
+          "start": 1628,
+          "end": 1644,
+          "event": "营建时期范围",
+          "sourceIds": [
+            "new-gaojia",
+            "new-gaojia-identity"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "确切营建年",
+          "reason": "资料仅给出时期或存在年代分歧。",
+          "requiredEvidence": "纪年碑、营造档案或断代研究"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 2,
+        "width": 80
+      },
+      "reading": {
+        "history": "高家大院（西安）位于陕西西安北院门144号。明崇祯时期（1628—1644）是本图谱采用的年代记录。主体营建记为明崇祯时期，位于北院门历史街区。",
+        "storyTitle": "热闹街巷，转入安静院中",
+        "story": [
+          "从北院门街进入宅院，空间从街巷转为层层院落。",
+          "记录中的居住面积与房屋数来自公开旅游介绍，原始测绘仍待进一步核实。"
+        ],
+        "poemTitle": "热闹街巷",
+        "poem": [
+          "街声转入院中轻，",
+          "四进门前日影停。",
+          "旧宅留窗看岁月，",
+          "长廊深处见家声。"
+        ],
+        "photoCaption": "高家大院（西安）的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-gaojia",
+            "new-gaojia-identity"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-gaojia",
+            "new-gaojia-identity"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-gaojia",
+            "new-gaojia-identity"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-gaojia",
+            "new-gaojia-identity"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "chengqi",
+      "name": "承启楼",
+      "type": "民居",
+      "province": "福建",
+      "city": "永定高头",
+      "region": "华东",
+      "dynasty": "明",
+      "date": {
+        "start": 1628,
+        "end": 1709,
+        "label": "明崇祯开建，1709年建成",
+        "kind": "开建时期与建成记录",
+        "sourceIds": [
+          "new-chengqi",
+          "new-chengqi-date",
+          "new-tulou"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "围合土楼",
+      "form": "四重同心圆土楼",
+      "material": "土木复合",
+      "rawMaterial": "土木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-chengqi",
+        "new-chengqi-date",
+        "new-tulou"
+      ],
+      "summary": "外环、内环与中心空间构成多重同心居住组织。",
+      "achievement": "一重圆，包着另一重圆",
+      "note": "1628是崇祯时期起界，不宣称81年连续施工；1709建成采用辅助年代资料，待营造档案进一步核验。",
+      "facts": [
+        "外环、内环与中心空间构成多重同心居住组织。",
+        "从入口走入，不只遇到一圈房间，还会穿过内部的环形空间。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "明崇祯开建，1709年建成",
+          "start": 1628,
+          "end": 1709,
+          "event": "开建时期与建成记录",
+          "sourceIds": [
+            "new-chengqi",
+            "new-chengqi-date",
+            "new-tulou"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        },
+        {
+          "field": "确切营建年",
+          "reason": "资料仅给出时期或存在年代分歧。",
+          "requiredEvidence": "纪年碑、营造档案或断代研究"
+        }
+      ],
+      "visual": {
+        "kind": "round-earth",
+        "rings": 3,
+        "levels": 4,
+        "radius": 105
+      },
+      "reading": {
+        "history": "承启楼位于福建永定高头。明崇祯开建，1709年建成是本图谱采用的年代记录。外环、内环与中心空间构成多重同心居住组织。",
+        "storyTitle": "一重圆，包着另一重圆",
+        "story": [
+          "从入口走入，不只遇到一圈房间，还会穿过内部的环形空间。",
+          "图谱将崇祯时期的开建记录与1709年建成分开理解，起点不是已确认的1628年某次开工。"
+        ],
+        "poemTitle": "一重圆",
+        "poem": [
+          "圆墙环抱院中天，",
+          "一重檐后又一圈。",
+          "家声沿着回廊走，",
+          "日影从心向外迁。"
+        ],
+        "photoCaption": "承启楼的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-chengqi",
+            "new-chengqi-date",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-chengqi",
+            "new-chengqi-date",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-chengqi",
+            "new-chengqi-date",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-chengqi",
+            "new-chengqi-date",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "huaiyuan",
+      "name": "怀远楼",
+      "type": "民居",
+      "province": "福建",
+      "city": "南靖坎下村",
+      "region": "华东",
+      "dynasty": "清",
+      "date": {
+        "start": 1909,
+        "end": 1909,
+        "label": "1909年",
+        "kind": "所引介绍的建成年",
+        "sourceIds": [
+          "new-huaiyuan",
+          "new-tulou"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "围合土楼",
+      "form": "双环圆形土楼",
+      "material": "土木复合",
+      "rawMaterial": "土木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [
+        {
+          "label": "占地面积",
+          "value": 1384.7,
+          "unit": "㎡",
+          "relation": "exact",
+          "scope": "单体土楼",
+          "sourceId": "new-huaiyuan",
+          "locator": "建筑介绍相关段落"
+        },
+        {
+          "label": "楼高",
+          "value": 14.5,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "单体土楼",
+          "sourceId": "new-huaiyuan",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [
+        {
+          "label": "楼层",
+          "value": 4,
+          "unit": "层",
+          "scope": "外环",
+          "sourceId": "new-huaiyuan"
+        },
+        {
+          "label": "房间总数",
+          "value": 136,
+          "unit": "间",
+          "scope": "所引资料单体统计",
+          "sourceId": "new-huaiyuan"
+        }
+      ],
+      "sourceIds": [
+        "new-huaiyuan",
+        "new-tulou"
+      ],
+      "summary": "四层圆楼与内部空间共同组织简氏家庭住宅。",
+      "achievement": "环形廊道，围住共同的院子",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "四层圆楼与内部空间共同组织简氏家庭住宅。",
+        "楼外夯土墙与楼内木构通廊承担不同构造功能。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1909年",
+          "start": 1909,
+          "end": 1909,
+          "event": "所引介绍的建成年",
+          "sourceIds": [
+            "new-huaiyuan",
+            "new-tulou"
+          ]
+        }
+      ],
+      "dataGaps": [],
+      "visual": {
+        "kind": "round-earth",
+        "rings": 2,
+        "levels": 4,
+        "radius": 88
+      },
+      "reading": {
+        "history": "怀远楼位于福建南靖坎下村。1909年是本图谱采用的年代记录。四层圆楼与内部空间共同组织简氏家庭住宅。",
+        "storyTitle": "环形廊道，围住共同的院子",
+        "story": [
+          "楼外夯土墙与楼内木构通廊承担不同构造功能。",
+          "四层的垂直叠置和圆形的水平围合，让家庭生活共享中心空间。"
+        ],
+        "poemTitle": "环形廊道",
+        "poem": [
+          "四层檐影绕庭圆，",
+          "墙外山光入院天。",
+          "木廊来往留声息，",
+          "一门开启到人间。"
+        ],
+        "photoCaption": "怀远楼的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-huaiyuan",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-huaiyuan",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-huaiyuan",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-huaiyuan",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "yuchang",
+      "name": "裕昌楼",
+      "type": "民居",
+      "province": "福建",
+      "city": "南靖下版村",
+      "region": "华东",
+      "dynasty": "元",
+      "date": {
+        "start": 1308,
+        "end": 1368,
+        "label": "1308／元末明初（年代分歧）",
+        "kind": "来源分歧",
+        "sourceIds": [
+          "new-tulou-study",
+          "new-yuchang-alt",
+          "new-tulou"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "围合土楼",
+      "form": "五层圆形土楼与木廊",
+      "material": "土木复合",
+      "rawMaterial": "土木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [
+        {
+          "label": "直径",
+          "value": 54,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "所引研究介绍单体",
+          "sourceId": "new-tulou-study",
+          "locator": "建筑介绍相关段落"
+        },
+        {
+          "label": "楼高",
+          "value": 18.4,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "所引研究介绍单体",
+          "sourceId": "new-tulou-study",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [
+        {
+          "label": "楼层",
+          "value": 5,
+          "unit": "层",
+          "scope": "外环",
+          "sourceId": "new-tulou-study"
+        }
+      ],
+      "sourceIds": [
+        "new-tulou-study",
+        "new-yuchang-alt",
+        "new-tulou"
+      ],
+      "summary": "木廊柱有倾斜现象，外墙与内部木构各有功能。",
+      "achievement": "看似倾斜，仍须读懂构造",
+      "note": "范围1308—1368用于呈现不同年代记载，不表示连续施工；1368是元明交替整理点。",
+      "facts": [
+        "木廊柱有倾斜现象，外墙与内部木构各有功能。",
+        "楼内廊柱的倾斜是其醒目特点，不能仅凭视觉认定工程安全。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1308／元末明初（年代分歧）",
+          "start": 1308,
+          "end": 1368,
+          "event": "来源分歧",
+          "sourceIds": [
+            "new-tulou-study",
+            "new-yuchang-alt",
+            "new-tulou"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "确切营建年",
+          "reason": "资料仅给出时期或存在年代分歧。",
+          "requiredEvidence": "纪年碑、营造档案或断代研究"
+        }
+      ],
+      "visual": {
+        "kind": "round-earth",
+        "rings": 1,
+        "levels": 5,
+        "radius": 92
+      },
+      "reading": {
+        "history": "裕昌楼位于福建南靖下版村。1308／元末明初（年代分歧）是本图谱采用的年代记录。木廊柱有倾斜现象，外墙与内部木构各有功能。",
+        "storyTitle": "看似倾斜，仍须读懂构造",
+        "story": [
+          "楼内廊柱的倾斜是其醒目特点，不能仅凭视觉认定工程安全。",
+          "年代资料分别记1308和元末明初，保留分歧，不把两个记载拼成60年施工史。"
+        ],
+        "poemTitle": "看似倾斜",
+        "poem": [
+          "五层廊影绕圆墙，",
+          "木柱微斜岁月长。",
+          "眼见须从资料读，",
+          "一庭天色在中央。"
+        ],
+        "photoCaption": "裕昌楼的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-tulou-study",
+            "new-yuchang-alt",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-tulou-study",
+            "new-yuchang-alt",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-tulou-study",
+            "new-yuchang-alt",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-tulou-study",
+            "new-yuchang-alt",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "fuyu",
+      "name": "福裕楼",
+      "type": "民居",
+      "province": "福建",
+      "city": "永定洪坑村",
+      "region": "华东",
+      "dynasty": "清",
+      "date": {
+        "start": 1880,
+        "end": 1880,
+        "label": "1880年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-fuyu",
+          "new-fuyu-form",
+          "new-tulou"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "府第式五凤楼住宅",
+      "material": "土木复合",
+      "rawMaterial": "土木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-fuyu",
+        "new-fuyu-form",
+        "new-tulou"
+      ],
+      "summary": "府第式土楼以厅堂和横屋展开，不是圆形环楼。",
+      "achievement": "土楼，也有舒展的院落",
+      "note": "始建年为公开辅助资料，原始营造档案未收录；形制依据非遗介绍。",
+      "facts": [
+        "府第式土楼以厅堂和横屋展开，不是圆形环楼。",
+        "福裕楼的府第式组织与附近圆形土楼不同，厅堂形成清楚的中轴关系。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1880年",
+          "start": 1880,
+          "end": 1880,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-fuyu",
+            "new-fuyu-form",
+            "new-tulou"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 3,
+        "width": 104,
+        "layout": "five-phoenix"
+      },
+      "reading": {
+        "history": "福裕楼位于福建永定洪坑村。1880年是本图谱采用的年代记录。府第式土楼以厅堂和横屋展开，不是圆形环楼。",
+        "storyTitle": "土楼，也有舒展的院落",
+        "story": [
+          "福裕楼的府第式组织与附近圆形土楼不同，厅堂形成清楚的中轴关系。",
+          "1880年开建采用辅助介绍；本样本不与1912年建成的振成楼混同。"
+        ],
+        "poemTitle": "土楼",
+        "poem": [
+          "厅堂沿轴次第开，",
+          "横屋相接院风来。",
+          "土墙未必围成圆，",
+          "家在重檐与阶台。"
+        ],
+        "photoCaption": "福裕楼的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-fuyu",
+            "new-fuyu-form",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-fuyu",
+            "new-fuyu-form",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-fuyu",
+            "new-fuyu-form",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-fuyu",
+            "new-fuyu-form",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "eryi",
+      "name": "二宜楼",
+      "type": "民居",
+      "province": "福建",
+      "city": "华安大地村",
+      "region": "华东",
+      "dynasty": "清",
+      "date": {
+        "start": 1740,
+        "end": 1770,
+        "label": "1740—1770年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-eryi",
+          "new-eryi-form",
+          "new-tulou"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "围合土楼",
+      "form": "双环圆形土楼",
+      "material": "土木复合",
+      "rawMaterial": "土木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-eryi",
+        "new-eryi-form",
+        "new-tulou"
+      ],
+      "summary": "依山选址，通廊、防卫与传声洞共同参与居住组织。",
+      "achievement": "厚墙之中，藏着交流的路",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "依山选址，通廊、防卫与传声洞共同参与居住组织。",
+        "外围防卫并不意味着内外完全隔绝，建筑中还有传声洞等交流安排。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1740—1770年",
+          "start": 1740,
+          "end": 1770,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-eryi",
+            "new-eryi-form",
+            "new-tulou"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "round-earth",
+        "rings": 2,
+        "levels": 4,
+        "radius": 110
+      },
+      "reading": {
+        "history": "二宜楼位于福建华安大地村。1740—1770年是本图谱采用的年代记录。依山选址，通廊、防卫与传声洞共同参与居住组织。",
+        "storyTitle": "厚墙之中，藏着交流的路",
+        "story": [
+          "外围防卫并不意味着内外完全隔绝，建筑中还有传声洞等交流安排。",
+          "楼的朝向回应山势，内部空间与环境选择需要一起阅读。"
+        ],
+        "poemTitle": "厚墙之中",
+        "poem": [
+          "圆墙守住一山青，",
+          "细隙传来院外声。",
+          "风向曾随门向定，",
+          "人家在此过阴晴。"
+        ],
+        "photoCaption": "二宜楼的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-eryi",
+            "new-eryi-form",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-eryi",
+            "new-eryi-form",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-eryi",
+            "new-eryi-form",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-eryi",
+            "new-eryi-form",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "hegui",
+      "name": "和贵楼",
+      "type": "民居",
+      "province": "福建",
+      "city": "南靖璞山村",
+      "region": "华东",
+      "dynasty": "清",
+      "date": {
+        "start": 1732,
+        "end": 1732,
+        "label": "1732年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-tulou-study",
+          "new-tulou"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "围合土楼",
+      "form": "五层方形土楼",
+      "material": "土木复合",
+      "rawMaterial": "土木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [
+        {
+          "label": "建筑面积",
+          "value": 3574,
+          "unit": "㎡",
+          "relation": "exact",
+          "scope": "原文建筑面积，不当作占地面积",
+          "sourceId": "new-tulou-study",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [
+        {
+          "label": "楼层",
+          "value": 5,
+          "unit": "层",
+          "scope": "主体土楼",
+          "sourceId": "new-tulou-study"
+        }
+      ],
+      "sourceIds": [
+        "new-tulou-study",
+        "new-tulou"
+      ],
+      "summary": "方形围合与五层楼面展示另一种土楼形制。",
+      "achievement": "在湿地上，安排一座方楼",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "方形围合与五层楼面展示另一种土楼形制。",
+        "资料记录它建在沼泽地上，基础安排是理解建筑的重要线索。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1732年",
+          "start": 1732,
+          "end": 1732,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-tulou-study",
+            "new-tulou"
+          ]
+        }
+      ],
+      "dataGaps": [],
+      "visual": {
+        "kind": "square-earth",
+        "levels": 5,
+        "width": 100
+      },
+      "reading": {
+        "history": "和贵楼位于福建南靖璞山村。1732年是本图谱采用的年代记录。方形围合与五层楼面展示另一种土楼形制。",
+        "storyTitle": "在湿地上，安排一座方楼",
+        "story": [
+          "资料记录它建在沼泽地上，基础安排是理解建筑的重要线索。",
+          "高层土楼并非都为圆形，和贵楼以方形院落把生活空间向四边展开。"
+        ],
+        "poemTitle": "在湿地上",
+        "poem": [
+          "方墙围起一庭光，",
+          "五层檐影向天长。",
+          "湿地之上留居所，",
+          "脚下根基不可忘。"
+        ],
+        "photoCaption": "和贵楼的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-tulou-study",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-tulou-study",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-tulou-study",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-tulou-study",
+            "new-tulou"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "huxueyan",
+      "name": "胡雪岩故居",
+      "type": "民居",
+      "province": "浙江",
+      "city": "杭州元宝街",
+      "region": "华东",
+      "dynasty": "清",
+      "date": {
+        "start": 1872,
+        "end": 1875,
+        "label": "1872—1875年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-huxueyan",
+          "new-huxueyan-end"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "宅院与园林相连的商人住宅",
+      "material": "砖木复合",
+      "rawMaterial": "砖木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-huxueyan",
+        "new-huxueyan-end"
+      ],
+      "summary": "宅院与园林空间相互联系，1872开工、1875竣工。",
+      "achievement": "居住与游赏，沿院落相遇",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "宅院与园林空间相互联系，1872开工、1875竣工。",
+        "这处私宅把日常居住与园林游赏放在同一组空间中。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1872—1875年",
+          "start": 1872,
+          "end": 1875,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-huxueyan",
+            "new-huxueyan-end"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 2,
+        "width": 94,
+        "garden": true
+      },
+      "reading": {
+        "history": "胡雪岩故居位于浙江杭州元宝街。1872—1875年是本图谱采用的年代记录。宅院与园林空间相互联系，1872开工、1875竣工。",
+        "storyTitle": "居住与游赏，沿院落相遇",
+        "story": [
+          "这处私宅把日常居住与园林游赏放在同一组空间中。",
+          "从厅堂到回廊，观看距离不断变化；本图稿只表达院落组织，不复原全部宅园。"
+        ],
+        "poemTitle": "居住与游赏",
+        "poem": [
+          "回廊一转看园深，",
+          "窗借花光入室阴。",
+          "商宅旧事留门里，",
+          "一院风来一院春。"
+        ],
+        "photoCaption": "胡雪岩故居的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-huxueyan",
+            "new-huxueyan-end"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-huxueyan",
+            "new-huxueyan-end"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-huxueyan",
+            "new-huxueyan-end"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-huxueyan",
+            "new-huxueyan-end"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "shangshudi",
+      "name": "尚书第（泰宁）",
+      "type": "民居",
+      "province": "福建",
+      "city": "泰宁尚书街",
+      "region": "华东",
+      "dynasty": "明",
+      "date": {
+        "start": 1621,
+        "end": 1627,
+        "label": "明天启时期（1621—1627）",
+        "kind": "营建时期范围",
+        "sourceIds": [
+          "new-shangshudi",
+          "new-shangshudi-form"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "三厅九栋明代私人府邸",
+      "material": "砖木复合",
+      "rawMaterial": "砖木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "厅",
+          "value": 3,
+          "unit": "座",
+          "scope": "三厅九栋布局",
+          "sourceId": "new-shangshudi"
+        },
+        {
+          "label": "栋",
+          "value": 9,
+          "unit": "栋",
+          "scope": "三厅九栋布局",
+          "sourceId": "new-shangshudi"
+        }
+      ],
+      "sourceIds": [
+        "new-shangshudi",
+        "new-shangshudi-form"
+      ],
+      "summary": "李春烨私人宅邸，以多厅多栋组织居住。",
+      "achievement": "一条中轴，容纳多座厅屋",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "李春烨私人宅邸，以多厅多栋组织居住。",
+        "多厅与横屋共同形成宅邸的层次，而不是单一大厅的扩大。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "明天启时期（1621—1627）",
+          "start": 1621,
+          "end": 1627,
+          "event": "营建时期范围",
+          "sourceIds": [
+            "new-shangshudi",
+            "new-shangshudi-form"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        },
+        {
+          "field": "确切营建年",
+          "reason": "资料仅给出时期或存在年代分歧。",
+          "requiredEvidence": "纪年碑、营造档案或断代研究"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 3,
+        "width": 102
+      },
+      "reading": {
+        "history": "尚书第（泰宁）位于福建泰宁尚书街。明天启时期（1621—1627）是本图谱采用的年代记录。李春烨私人宅邸，以多厅多栋组织居住。",
+        "storyTitle": "一条中轴，容纳多座厅屋",
+        "story": [
+          "多厅与横屋共同形成宅邸的层次，而不是单一大厅的扩大。",
+          "名字虽含尚书，这是私人居所，书中归入民居，不归为办公衙署。"
+        ],
+        "poemTitle": "一条中轴",
+        "poem": [
+          "三厅次第对晴光，",
+          "九栋相连院更长。",
+          "官名之外人家在，",
+          "门里风声到旧堂。"
+        ],
+        "photoCaption": "尚书第（泰宁）的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-shangshudi",
+            "new-shangshudi-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-shangshudi",
+            "new-shangshudi-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-shangshudi",
+            "new-shangshudi-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-shangshudi",
+            "new-shangshudi-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "luzhai",
+      "name": "卢宅（东阳）",
+      "type": "民居",
+      "province": "浙江",
+      "city": "东阳",
+      "region": "华东",
+      "dynasty": "明",
+      "date": {
+        "start": 1456,
+        "end": 1456,
+        "label": "1456年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-luzhai"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "院落式",
+      "form": "多进院落与木雕厅堂",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-luzhai"
+      ],
+      "summary": "明清宅院群保存木、石、砖雕等装饰工艺。",
+      "achievement": "在构件上，读一户人家的审美",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "明清宅院群保存木、石、砖雕等装饰工艺。",
+        "雕刻出现在梁枋、门窗和其他构件上，将结构与装饰联系起来。"
+      ],
+      "objectLevel": "建筑群",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1456年",
+          "start": 1456,
+          "end": 1456,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-luzhai"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "courtyard",
+        "rows": 3,
+        "width": 98
+      },
+      "reading": {
+        "history": "卢宅（东阳）位于浙江东阳。1456年是本图谱采用的年代记录。明清宅院群保存木、石、砖雕等装饰工艺。",
+        "storyTitle": "在构件上，读一户人家的审美",
+        "story": [
+          "雕刻出现在梁枋、门窗和其他构件上，将结构与装饰联系起来。",
+          "卢宅古建筑群与后来开发的街区不采用同一面积口径，图谱也不合并两者。"
+        ],
+        "poemTitle": "在构件上",
+        "poem": [
+          "木上花纹随影明，",
+          "重门院落接家声。",
+          "细雕留在梁间处，",
+          "风过长廊见旧情。"
+        ],
+        "photoCaption": "卢宅（东阳）的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-luzhai"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-luzhai"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-luzhai"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-luzhai"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "zhongshan",
+      "name": "中山桥（兰州）",
+      "type": "桥梁",
+      "province": "甘肃",
+      "city": "兰州",
+      "region": "西北",
+      "dynasty": "清",
+      "date": {
+        "start": 1908,
+        "end": 1909,
+        "label": "1908—1909年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-zhongshan-size",
+          "new-zhongshan"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "铁桁梁桥",
+      "form": "钢铁桁架梁桥",
+      "material": "铁构",
+      "rawMaterial": "铁构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [
+        {
+          "label": "总长",
+          "value": 255.5,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "所引平凉政府介绍口径，不与233m口径混用",
+          "sourceId": "new-zhongshan-size",
+          "locator": "建筑介绍相关段落"
+        },
+        {
+          "label": "桥面总宽",
+          "value": 8.46,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "所引资料桥面总宽",
+          "sourceId": "new-zhongshan-size",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [],
+      "sourceIds": [
+        "new-zhongshan-size",
+        "new-zhongshan"
+      ],
+      "summary": "钢铁构件与中外工程协作跨越黄河。",
+      "achievement": "材料远行，才有河上的路",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "钢铁构件与中外工程协作跨越黄河。",
+        "构件运输、设计和施工由不同地域的人参与，共同完成黄河铁桥。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1908—1909年",
+          "start": 1908,
+          "end": 1909,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-zhongshan-size",
+            "new-zhongshan"
+          ]
+        }
+      ],
+      "dataGaps": [],
+      "visual": {
+        "kind": "iron-truss",
+        "spans": 5
+      },
+      "reading": {
+        "history": "中山桥（兰州）位于甘肃兰州。1908—1909年是本图谱采用的年代记录。钢铁构件与中外工程协作跨越黄河。",
+        "storyTitle": "材料远行，才有河上的路",
+        "story": [
+          "构件运输、设计和施工由不同地域的人参与，共同完成黄河铁桥。",
+          "照片里的拱形加固与现今设施需要与1909年建成形制分别理解。"
+        ],
+        "poemTitle": "材料远行",
+        "poem": [
+          "铁架牵来两岸通，",
+          "河声从此过桥中。",
+          "远行构件终成路，",
+          "一线人间跨水风。"
+        ],
+        "photoCaption": "中山桥（兰州）的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-zhongshan-size",
+            "new-zhongshan"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-zhongshan-size",
+            "new-zhongshan"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-zhongshan-size",
+            "new-zhongshan"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-zhongshan-size",
+            "new-zhongshan"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "baodai",
+      "name": "宝带桥",
+      "type": "桥梁",
+      "province": "江苏",
+      "city": "苏州",
+      "region": "华东",
+      "dynasty": "唐",
+      "date": {
+        "start": 816,
+        "end": 819,
+        "label": "816—819年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-baodai"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "石拱桥",
+      "form": "长列多孔石拱桥",
+      "material": "石构",
+      "rawMaterial": "石构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-baodai"
+      ],
+      "summary": "桥梁与运河纤道联系，经历多次修复。",
+      "achievement": "把纤道，跨过一道水口",
+      "note": "概念图以重复券洞表达长桥，不按图稿数孔；始建记录不代表全部现存石构。",
+      "facts": [
+        "桥梁与运河纤道联系，经历多次修复。",
+        "建桥使沿运河的道路可以跨过澹台湖水道。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "816—819年",
+          "start": 816,
+          "end": 819,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-baodai"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "multi-arch",
+        "arches": 13,
+        "profile": "flat"
+      },
+      "reading": {
+        "history": "宝带桥位于江苏苏州。816—819年是本图谱采用的年代记录。桥梁与运河纤道联系，经历多次修复。",
+        "storyTitle": "把纤道，跨过一道水口",
+        "story": [
+          "建桥使沿运河的道路可以跨过澹台湖水道。",
+          "唐代营建记录与照片中的历代修复部分应分别阅读，不以始建年给所有石块断代。"
+        ],
+        "poemTitle": "把纤道",
+        "poem": [
+          "长桥卧水孔相连，",
+          "岸上纤声过旧年。",
+          "唐迹留名桥历改，",
+          "河光仍向石间穿。"
+        ],
+        "photoCaption": "民国时期的宝带桥与旁侧公路桥：历史照片。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-baodai"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-baodai"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-baodai"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-baodai"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "wuting",
+      "name": "五亭桥",
+      "type": "桥梁",
+      "province": "江苏",
+      "city": "扬州瘦西湖",
+      "region": "华东",
+      "dynasty": "清",
+      "date": {
+        "start": 1757,
+        "end": 1757,
+        "label": "1757年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-wuting"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "石拱桥",
+      "form": "石基券洞与五亭木构组合",
+      "material": "石木复合",
+      "rawMaterial": "石木复合",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "风亭",
+          "value": 5,
+          "unit": "座",
+          "scope": "桥上亭",
+          "sourceId": "new-wuting"
+        },
+        {
+          "label": "券洞",
+          "value": 15,
+          "unit": "个",
+          "scope": "桥基券洞",
+          "sourceId": "new-wuting"
+        }
+      ],
+      "sourceIds": [
+        "new-wuting"
+      ],
+      "summary": "五座风亭与石构桥基共同组成桥上游赏空间。",
+      "achievement": "桥上，也是一处停留的地方",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "五座风亭与石构桥基共同组成桥上游赏空间。",
+        "桥亭把通行和观景叠在同一座桥上，亭与亭之间有联系。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1757年",
+          "start": 1757,
+          "end": 1757,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-wuting"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "pavilion-bridge",
+        "pavilions": 5
+      },
+      "reading": {
+        "history": "五亭桥位于江苏扬州瘦西湖。1757年是本图谱采用的年代记录。五座风亭与石构桥基共同组成桥上游赏空间。",
+        "storyTitle": "桥上，也是一处停留的地方",
+        "story": [
+          "桥亭把通行和观景叠在同一座桥上，亭与亭之间有联系。",
+          "桥下十五券洞与桥上五亭属于不同构件计数，不能彼此混用。"
+        ],
+        "poemTitle": "桥上",
+        "poem": [
+          "五亭檐下水光柔，",
+          "桥上停人桥下舟。",
+          "月入券中分作影，",
+          "一湖风色在桥头。"
+        ],
+        "photoCaption": "五亭桥的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-wuting"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-wuting"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-wuting"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-wuting"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "seventeen",
+      "name": "十七孔桥",
+      "type": "桥梁",
+      "province": "北京",
+      "city": "颐和园",
+      "region": "华北",
+      "dynasty": "清",
+      "date": {
+        "start": 1750,
+        "end": 1750,
+        "label": "1750年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-seventeen"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "石拱桥",
+      "form": "十七券洞石拱桥",
+      "material": "石构",
+      "rawMaterial": "石构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [
+        {
+          "label": "桥身长",
+          "value": 150,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "公园介绍桥身口径",
+          "sourceId": "new-seventeen",
+          "locator": "建筑介绍相关段落"
+        },
+        {
+          "label": "桥宽",
+          "value": 8,
+          "unit": "m",
+          "relation": "exact",
+          "scope": "单体石桥",
+          "sourceId": "new-seventeen",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [
+        {
+          "label": "券洞",
+          "value": 17,
+          "unit": "个",
+          "scope": "单体",
+          "sourceId": "new-seventeen"
+        }
+      ],
+      "sourceIds": [
+        "new-seventeen"
+      ],
+      "summary": "连接昆明湖东堤与南湖岛，券洞构成长桥节奏。",
+      "achievement": "由岸入岛，走过十七道弧线",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "连接昆明湖东堤与南湖岛，券洞构成长桥节奏。",
+        "桥梁既是一条通行路径，也成为湖区的景观。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1750年",
+          "start": 1750,
+          "end": 1750,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-seventeen"
+          ]
+        }
+      ],
+      "dataGaps": [],
+      "visual": {
+        "kind": "multi-arch",
+        "arches": 17
+      },
+      "reading": {
+        "history": "十七孔桥位于北京颐和园。1750年是本图谱采用的年代记录。连接昆明湖东堤与南湖岛，券洞构成长桥节奏。",
+        "storyTitle": "由岸入岛，走过十七道弧线",
+        "story": [
+          "桥梁既是一条通行路径，也成为湖区的景观。",
+          "十七个券洞在水面上连续展开，桥的结构与观看节奏同时出现。"
+        ],
+        "poemTitle": "由岸入岛",
+        "poem": [
+          "十七弧光接远汀，",
+          "长桥把岛向人迎。",
+          "水中倒影连天色，",
+          "一步清风一步明。"
+        ],
+        "photoCaption": "十七孔桥的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-seventeen"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-seventeen"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-seventeen"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-seventeen"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "jadebelt",
+      "name": "玉带桥（颐和园）",
+      "type": "桥梁",
+      "province": "北京",
+      "city": "颐和园西堤",
+      "region": "华北",
+      "dynasty": "清",
+      "date": {
+        "start": 1751,
+        "end": 1764,
+        "label": "1751—1764年",
+        "kind": "公开资料建造区间",
+        "sourceIds": [
+          "new-jadebelt",
+          "new-jadebelt-date"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "石拱桥",
+      "form": "高薄单孔石拱桥",
+      "material": "石构",
+      "rawMaterial": "石构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [
+        {
+          "label": "高出水面",
+          "value": 10,
+          "unit": "m",
+          "relation": "gt",
+          "scope": "原文十米有余，非拱净高",
+          "sourceId": "new-jadebelt",
+          "locator": "建筑介绍相关段落"
+        }
+      ],
+      "counts": [],
+      "sourceIds": [
+        "new-jadebelt",
+        "new-jadebelt-date"
+      ],
+      "summary": "高而薄的石拱、青石与汉白玉形成西堤桥梁轮廓。",
+      "achievement": "把一道弧线，抬到水面之上",
+      "note": "1751—1764为辅助年代资料区间，准确建造纪年仍待营造档案核定。",
+      "facts": [
+        "高而薄的石拱、青石与汉白玉形成西堤桥梁轮廓。",
+        "与平缓的多孔桥不同，玉带桥以高拱成为西堤上的视觉标志。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1751—1764年",
+          "start": 1751,
+          "end": 1764,
+          "event": "公开资料建造区间",
+          "sourceIds": [
+            "new-jadebelt",
+            "new-jadebelt-date"
+          ]
+        }
+      ],
+      "dataGaps": [],
+      "visual": {
+        "kind": "high-arch"
+      },
+      "reading": {
+        "history": "玉带桥（颐和园）位于北京颐和园西堤。1751—1764年是本图谱采用的年代记录。高而薄的石拱、青石与汉白玉形成西堤桥梁轮廓。",
+        "storyTitle": "把一道弧线，抬到水面之上",
+        "story": [
+          "与平缓的多孔桥不同，玉带桥以高拱成为西堤上的视觉标志。",
+          "公开时间区间来自辅助年代介绍，故宫词条只明确清漪园背景，因此不采用未经证实的1750单点。"
+        ],
+        "poemTitle": "把一道弧线",
+        "poem": [
+          "一弯玉色起湖烟，",
+          "人向高桥望远天。",
+          "薄拱留空容水过，",
+          "堤边风月在其间。"
+        ],
+        "photoCaption": "玉带桥（颐和园）的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-jadebelt",
+            "new-jadebelt-date"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-jadebelt",
+            "new-jadebelt-date"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-jadebelt",
+            "new-jadebelt-date"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-jadebelt",
+            "new-jadebelt-date"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "tangqi",
+      "name": "广济桥（塘栖）",
+      "type": "桥梁",
+      "province": "浙江",
+      "city": "杭州塘栖",
+      "region": "华东",
+      "dynasty": "明",
+      "date": {
+        "start": 1498,
+        "end": 1498,
+        "label": "1498年",
+        "kind": "现存桥复建完成年",
+        "sourceIds": [
+          "new-tangqi",
+          "new-tangqi-form"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "石拱桥",
+      "form": "七孔石拱运河桥",
+      "material": "石构",
+      "rawMaterial": "石构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [
+        {
+          "label": "桥孔",
+          "value": 7,
+          "unit": "个",
+          "scope": "塘栖广济桥",
+          "sourceId": "new-tangqi"
+        }
+      ],
+      "sourceIds": [
+        "new-tangqi",
+        "new-tangqi-form"
+      ],
+      "summary": "现存石桥为明代复建，与潮州同名桥不同。",
+      "achievement": "同一个桥名，不同的过河办法",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "现存石桥为明代复建，与潮州同名桥不同。",
+        "这座广济桥通过七孔石拱跨越运河，不使用潮州广济桥的中央浮舟结构。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1498年",
+          "start": 1498,
+          "end": 1498,
+          "event": "现存桥复建完成年",
+          "sourceIds": [
+            "new-tangqi",
+            "new-tangqi-form"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "multi-arch",
+        "arches": 7
+      },
+      "reading": {
+        "history": "广济桥（塘栖）位于浙江杭州塘栖。1498年是本图谱采用的年代记录。现存石桥为明代复建，与潮州同名桥不同。",
+        "storyTitle": "同一个桥名，不同的过河办法",
+        "story": [
+          "这座广济桥通过七孔石拱跨越运河，不使用潮州广济桥的中央浮舟结构。",
+          "唐代始建在资料中是相传，本记录使用1498年复建，不把传说画成确切年代。"
+        ],
+        "poemTitle": "同一个桥名",
+        "poem": [
+          "七孔连成运水间，",
+          "石阶把岸向桥牵。",
+          "同名自有不同法，",
+          "一渡风来认旧湾。"
+        ],
+        "photoCaption": "广济桥（塘栖）的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-tangqi",
+            "new-tangqi-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-tangqi",
+            "new-tangqi-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-tangqi",
+            "new-tangqi-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-tangqi",
+            "new-tangqi-form"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "beijian",
+      "name": "北涧桥",
+      "type": "桥梁",
+      "province": "浙江",
+      "city": "泰顺泗溪",
+      "region": "华东",
+      "dynasty": "清",
+      "date": {
+        "start": 1674,
+        "end": 1674,
+        "label": "1674年",
+        "kind": "始建或建造区间",
+        "sourceIds": [
+          "new-beijian"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "木拱廊桥",
+      "form": "叠梁木拱廊桥",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-beijian"
+      ],
+      "summary": "叠梁木拱支承桥面，上覆廊屋供行人停留。",
+      "achievement": "在桥上，撑起一条有屋顶的路",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "叠梁木拱支承桥面，上覆廊屋供行人停留。",
+        "廊屋提供遮蔽，木拱则承担跨越，两部分不能只按外观合为屋顶。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1674年",
+          "start": 1674,
+          "end": 1674,
+          "event": "始建或建造区间",
+          "sourceIds": [
+            "new-beijian"
+          ]
+        },
+        {
+          "label": "1803年",
+          "start": 1803,
+          "end": 1803,
+          "event": "重建",
+          "sourceIds": [
+            "new-beijian"
+          ]
+        },
+        {
+          "label": "1849年",
+          "start": 1849,
+          "end": 1849,
+          "event": "重修",
+          "sourceIds": [
+            "new-beijian"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "covered-bridge",
+        "bays": 9,
+        "roof": "gable"
+      },
+      "reading": {
+        "history": "北涧桥位于浙江泰顺泗溪。1674年是本图谱采用的年代记录。叠梁木拱支承桥面，上覆廊屋供行人停留。",
+        "storyTitle": "在桥上，撑起一条有屋顶的路",
+        "story": [
+          "廊屋提供遮蔽，木拱则承担跨越，两部分不能只按外观合为屋顶。",
+          "1803年的重建与1849年的重修也属于建筑的时间记录。"
+        ],
+        "poemTitle": "在桥上",
+        "poem": [
+          "木拱横穿溪涧声，",
+          "廊檐留住一程晴。",
+          "人从风雨中间过，",
+          "桥上还有可停庭。"
+        ],
+        "photoCaption": "北涧桥的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-beijian"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-beijian"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-beijian"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-beijian"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    },
+    {
+      "id": "rulong",
+      "name": "如龙桥",
+      "type": "桥梁",
+      "province": "浙江",
+      "city": "庆元举水月山",
+      "region": "华东",
+      "dynasty": "明",
+      "date": {
+        "start": 1625,
+        "end": 1625,
+        "label": "1625年",
+        "kind": "县志记载修造年",
+        "sourceIds": [
+          "new-rulong"
+        ],
+        "intervalMeaning": "原文为时期或来源分歧时，范围横线不表示连续施工；单点不表示全部现存构件的年代。"
+      },
+      "structure": "木拱廊桥",
+      "form": "木拱桥与精细廊屋",
+      "material": "木构",
+      "rawMaterial": "木构",
+      "materialBasis": "依据所引文献的结构构件、墙体与屋架描述作体系归类；不是材料检测结果。",
+      "sizes": [],
+      "counts": [],
+      "sourceIds": [
+        "new-rulong"
+      ],
+      "summary": "县志记1625年修造，廊屋与木拱共同构成桥梁。",
+      "achievement": "廊屋，让跨越有了层次",
+      "note": "图谱定位以所录年代为准；后世修复与现存形制不直接等同始建。",
+      "facts": [
+        "县志记1625年修造，廊屋与木拱共同构成桥梁。",
+        "桥上屋顶、通行廊道与桥下木拱分别承担不同作用。"
+      ],
+      "objectLevel": "单体",
+      "measurementNotes": "尺寸按引用范围独立阅读；未收录不表示数值为0。",
+      "events": [
+        {
+          "label": "1625年",
+          "start": 1625,
+          "end": 1625,
+          "event": "县志记载修造年",
+          "sourceIds": [
+            "new-rulong"
+          ]
+        }
+      ],
+      "dataGaps": [
+        {
+          "field": "独立尺寸",
+          "reason": "本轮未采到可按对象范围引用的尺寸原件。",
+          "requiredEvidence": "对应建筑的公开测绘或范围明确的修缮资料"
+        }
+      ],
+      "visual": {
+        "kind": "covered-bridge",
+        "bays": 7,
+        "roof": "layered"
+      },
+      "reading": {
+        "history": "如龙桥位于浙江庆元举水月山。1625年是本图谱采用的年代记录。县志记1625年修造，廊屋与木拱共同构成桥梁。",
+        "storyTitle": "廊屋，让跨越有了层次",
+        "story": [
+          "桥上屋顶、通行廊道与桥下木拱分别承担不同作用。",
+          "本记录按县志修造年定位，不替代更早始建年代的考证。"
+        ],
+        "poemTitle": "廊屋",
+        "poem": [
+          "木拱承风过水湾，",
+          "廊中檐影接山岚。",
+          "如龙未必凭传说，",
+          "一桥年月在文间。"
+        ],
+        "photoCaption": "如龙桥的建筑图版。"
+      },
+      "provenance": {
+        "identity": {
+          "sourceIds": [
+            "new-rulong"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "date": {
+          "sourceIds": [
+            "new-rulong"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "structure": {
+          "sourceIds": [
+            "new-rulong"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        },
+        "material": {
+          "sourceIds": [
+            "new-rulong"
+          ],
+          "kind": "文献记录／明确标注的整理归类"
+        }
+      }
+    }
+  ],
+  "types": [
+    "民居",
+    "官府",
+    "皇宫",
+    "桥梁"
+  ],
+  "colors": {
+    "民居": "#38f4bd",
+    "官府": "#66baff",
+    "皇宫": "#f6c46a",
+    "桥梁": "#ff9178"
+  },
+  "regions": [
+    "华北",
+    "华东",
+    "华中",
+    "华南",
+    "西南",
+    "西北",
+    "东北"
+  ],
+  "dynasties": [
+    "隋",
+    "唐",
+    "宋",
+    "金",
+    "元",
+    "明",
+    "后金",
+    "清"
+  ],
+  "materials": [
+    "木构",
+    "砖木复合",
+    "石构",
+    "石木复合",
+    "铁木复合",
+    "未载明",
+    "土木复合",
+    "铁构"
+  ],
+  "structures": [
+    "殿堂木架",
+    "院落式",
+    "石拱桥",
+    "石梁桥",
+    "梁浮组合",
+    "铁索桥",
+    "围合土楼",
+    "铁桁梁桥",
+    "木拱廊桥"
+  ],
+  "fields": [
+    "名称",
+    "建筑类型",
+    "省级地域",
+    "建造年代",
+    "形制分类",
+    "主承重材料",
+    "尺寸数值",
+    "资料来源"
+  ],
+  "schemaVersion": "2.0",
+  "audit": {
+    "updated": "2026-10-07",
+    "sampleScope": "50件具名建筑，训练项目固定规模，不继续扩至100件",
+    "fieldCoverage": {
+      "filled": 374,
+      "total": 400,
+      "percentage": 93.5
+    },
+    "limitations": [
+      "字段有值率不等于全部尺寸已实测或全部证据无争议。",
+      "近似值与下限不参与无条件精确比较。",
+      "局部门洞尺寸不得被当作住宅外包尺寸。",
+      "新增样本中的未收录尺寸不以0或示意模型尺度补齐。",
+      "营建时期、现存遗构、来源分歧与连续施工区间分别标注。",
+      "辅助来源用于部分确年尚未统一的建筑，资料目录注明其性质。"
+    ],
+    "excludedValues": [
+      {
+        "recordId": "luoyang",
+        "value": "73.29米",
+        "reason": "同类政府转载页面有明显位数异常；采用可完整核对的731.29米原页面，不自行改写错误页面。"
+      },
+      {
+        "recordId": "neixiang",
+        "value": "8500／24000平方米",
+        "reason": "不同报道范围或时代不一致，未确立可比口径。"
+      },
+      {
+        "recordId": "qiao",
+        "value": "四堂一园总面积",
+        "reason": "不可与在中堂的建筑面积混用。"
+      },
+      {
+        "recordId": "yinyu",
+        "value": "2500／4500／5000平方英尺",
+        "reason": "不同二手介绍未统一面积定义，未作为全宅测绘面积入库。"
+      }
+    ]
+  }
+}
