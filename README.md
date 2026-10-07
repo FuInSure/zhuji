@@ -5,6 +5,7 @@
 ## 使用
 
 双击 `index.html` 可以完整离线打开。也可双击 `启动预览.cmd`，或执行 `node server.mjs` 后访问 <http://127.0.0.1:4748>。无需npm依赖。
+直接访问<https://zhuji-worker.zhuji-atlas.workers.dev/>即可在线打开
 
 ## 图谱与建筑书
 
